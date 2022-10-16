@@ -19,7 +19,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]Folk legends [√]Folktales"
 			}
 		]
 	},
@@ -43,7 +44,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"wild animals or domestic"
 			}
 		]
 	},
@@ -72,14 +74,15 @@
 		]
 	},
 	{
-		"question":"7. The transformation stories also have a lot of the common things that tend to show up in folktales, such as the standard opening, ‘once upon a time...' and stock characters like a prince, and a heroine who is a poor but beautiful peasant girl.",
+		"question":"7. The transformation stories also have a lot of the common things that tend to show up in folktales, such as the standard opening, 'once upon a time...' and stock characters like a prince, and a heroine who is a poor but beautiful peasant girl.",
 		"choice":[
 			{
 				"content":"T",
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]and a heroine"
 			}
 		]
 	},
@@ -103,7 +106,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]contain no [√]contain"
 			}
 		]
 	},
@@ -139,7 +143,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]economy [√]affair"
 			}
 		]
 	},
@@ -151,7 +156,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]developed economies [√]emerging economies"
 			}
 		]
 	},
@@ -199,7 +205,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]Donald Trump [√]Obama"
 			}
 		]
 	},
@@ -235,7 +242,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"Deputy Director"
 			}
 		]
 	},
@@ -247,7 +255,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"this coming May"
 			}
 		]
 	},
@@ -259,7 +268,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]raising [√]dialing down"
 			}
 		]
 	},
@@ -295,7 +305,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"this year"
 			}
 		]
 	},
@@ -312,14 +323,15 @@
 		]
 	},
 	{
-		"question":"2. The ‘Four Ms': Market, Method, Money, Message are important areas to focus on when creating your advertising plan.",
+		"question":"2. The 'Four Ms': Market, Method, Money, Message are important areas to focus on when creating your advertising plan.",
 		"choice":[
 			{
 				"content":"T",
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]Method [√]Media"
 			}
 		]
 	},
@@ -343,19 +355,21 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]avenues of communication"
 			}
 		]
 	},
 	{
-		"question":"5. You'll probably spend your money well to put your advertisement about classroom activities in the teachers' favor magazine, ‘Educational Psychology' for example.",
+		"question":"5. You'll probably spend your money well to put your advertisement about classroom activities in the teachers' favor magazine, 'Educational Psychology' for example.",
 		"choice":[
 			{
 				"content":"T",
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"the younger teachers generally don't read."
 			}
 		]
 	},
@@ -379,7 +393,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"who buy sports equipment tend not to give it as a holiday gift"
 			}
 		]
 	},
@@ -403,7 +418,8 @@
 				"correct":false
 			},			{
 				"content":"F",
-				"correct":true
+				"correct":true,
+				"reason":"[x]buy one get one free"
 			}
 		]
 	},
