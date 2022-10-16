@@ -20,7 +20,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]Folk legends [▪]Folktales"
+				"reason":"[x]Folk legends [·]Folktales"
 			}
 		]
 	},
@@ -107,7 +107,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]contain no [▪]contain"
+				"reason":"[x]contain no [·]contain"
 			}
 		]
 	},
@@ -144,7 +144,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]economy [▪]affair"
+				"reason":"[x]economy [·]affair"
 			}
 		]
 	},
@@ -157,7 +157,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]developed economies [▪]emerging economies"
+				"reason":"[x]developed economies [·]emerging economies"
 			}
 		]
 	},
@@ -206,7 +206,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]Donald Trump [▪]Obama"
+				"reason":"[x]Donald Trump [·]Obama"
 			}
 		]
 	},
@@ -269,7 +269,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]raising [▪]dialing down"
+				"reason":"[x]raising [·]dialing down"
 			}
 		]
 	},
@@ -331,7 +331,7 @@
 			},			{
 				"content":"F",
 				"correct":true,
-				"reason":"[x]Method [▪]Media"
+				"reason":"[x]Method [·]Media"
 			}
 		]
 	},

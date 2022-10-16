@@ -97,7 +97,7 @@ onUnmounted(() => {
     </template>
     <div v-for="o in item.choice" :key="o.key">
       <el-button class="answer-btn" :type="o.selected ? (o.correct ? 'success':'danger'):''" :text="!o.selected" @click="onSelect(o)">
-        {{ o.content + (o.selected && o.reason ? ('----'+o.reason):'') }}
+        {{ o.content + (o.selected && o.reason ? (' — '+o.reason):'') }}
       </el-button>
     </div>
   </el-card>
