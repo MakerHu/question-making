@@ -31,6 +31,9 @@ function requestJson(url) {
   axios.get(url).then((res) => {
     console.log('res.data = ', res.data)
     data.questionsData = reactive(res.data)
+    if (data.questionsData.length > 0) {
+      tabPosition.value = data.questionsData[0].id
+    }
     loadFlag.value = false
     flag.value = true
   })
