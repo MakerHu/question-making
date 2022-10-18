@@ -1,0 +1,2536 @@
+[
+    {
+        "id":"task1",
+        "name":"test1",
+        "questions":[
+            {
+                "question":"2. You can lose your perspective. You know, get _____ about what other people say about you.",
+                "choice":[
+                    {
+                        "content":"A. paranoia",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. paranoiac ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. paranoid",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. paranoids ",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"task2",
+        "name":"test2",
+        "questions":[
+            {
+                "question":"1. In fact, basic ___ projects are playing an extremely important role and should be given priority.",
+                "choice":[
+                    {
+                        "content":"A. infrastructure",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. infraction  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. structure",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. influential",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. You can lose your perspective. You know, get _____ about what other people say about you.",
+                "choice":[
+                    {
+                        "content":"A. paranoia",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. paranoiac ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. paranoid",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. paranoids ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The economics, history and political science departments organized an interdisciplinary _____ on Southeast Asia.",
+                "choice":[
+                    {
+                        "content":"A. similar",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. seminar  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. seminal",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. seminary ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The government and ______ should pay attention to this unusual fact.",
+                "choice":[
+                    {
+                        "content":"A. academia",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. academic  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. academics ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. academically ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Compared with a hundred years ago, our lives are less tightly bound by social norms and physical ______.",
+                "choice":[
+                    {
+                        "content":"A. constitutes ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. contents   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. containment ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. constraints",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. Breast self-examination is ______ for detecting cancer in its very early stages.",
+                "choice":[
+                    {
+                        "content":"A. impractical ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. practical   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. valuable",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. invaluable",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"7. Without continued learning, graduates will lose their ______ vitality.",
+                "choice":[
+                    {
+                        "content":"A. intelligible ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. individual  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. intellectual",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. influential",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. The economic ______ of cost-reducing changes will always depend on sustained need.",
+                "choice":[
+                    {
+                        "content":"A. feasibility",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. possibility  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. probability ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. likelihood ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. With this knowledge, we can ______ functions with great clarity.",
+                "choice":[
+                    {
+                        "content":"A. expire",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. prioritize  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. sponge",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. priority",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. It is ______ to review briefly their overall significance and relative importance.",
+                "choice":[
+                    {
+                        "content":"A. passion",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. protocol  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. pertinent",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. property",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Art is a ______ of emotion and emotion speaks a language that all may understand.",
+                "choice":[
+                    {
+                        "content":"A. manufacture ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. manifestation  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. manuscript",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. manually",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Mechanization has contributed to the ______ of farms in larger holdings.",
+                "choice":[
+                    {
+                        "content":"A. paramount",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. consolation ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. collaborative",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. consolidation ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. The company won a ______ contract for work on Europe's tallest building.",
+                "choice":[
+                    {
+                        "content":"A. precarious",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. preventative  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. prestigious",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. prejudices ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Despite their bitter screen ______, off-stage they are close friends. ",
+                "choice":[
+                    {
+                        "content":"A. rivalry          ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. revaluate         ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. ravage ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. revenue ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. The government is responsible for the ______ of health care.",
+                "choice":[
+                    {
+                        "content":"A. provision ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. pivot   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. projection ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. perilous",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The production and consumption of goods and services is the ultimate aim of all economic   ______.",
+                "choice":[
+                    {
+                        "content":"A. earmark ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. endeavour   ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. epoch-making",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. espouse",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. The outs are invariably more emphatic in their ______ of principles than the ins.",
+                "choice":[
+                    {
+                        "content":"A. advantage ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. adrift  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. advocacy",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. aspiration",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. The physics of such soluble particles is of especial ______ to fog and cloud formation.",
+                "choice":[
+                    {
+                        "content":"A. relevance",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. relation   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. relationship ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. likelihood ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. These will be very constrained budgets designed to get the ______ down.",
+                "choice":[
+                    {
+                        "content":"A. detect",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. defect   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. defeat",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. deficit",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. The world situation is characterized by ______ and intranquility.",
+                "choice":[
+                    {
+                        "content":"A. participatory",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. inclusiveness  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. robust",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. turbulence",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. Photographs taken at the same time on two ______ sunny days can be quite different from one another. ",
+                "choice":[
+                    {
+                        "content":"A. continued         ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. continuous  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. consecutive",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. continual",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. The ______ from tourism is the biggest single item in the country's invisible earnings. ",
+                "choice":[
+                    {
+                        "content":"A. revenue",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. revenant ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. revenge",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. reverse ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. It seems that the so-called new theory is likely to sink into ______.",
+                "choice":[
+                    {
+                        "content":"A. objection",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. observation ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. obligation ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. oblivion ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. In his ____ work begun in 1666, Newton discovered three vital facts about the gravitational force.",
+                "choice":[
+                    {
+                        "content":"A. monument ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. monumental ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. mountainous ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. monumentality ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. We must ______ the Party's ideological and theoretical building.",
+                "choice":[
+                    {
+                        "content":"A. delight  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. lighten    ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. enlighten  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. highlight",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. Energy independence has been the dream of American president for decades, and never more so than in the past few years, when the most recent oil price shock has been partly responsible for kicking off the great _______.",
+                "choice":[
+                    {
+                        "content":"A. recession",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. succession   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. success",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. discussion ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. He stormed out of the apartment, slamming the door _____ behind him. ",
+                "choice":[
+                    {
+                        "content":"A. intelligibly ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. individually ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. furiously",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. influentially",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. He was concerned with the ______ of the human condition.",
+                "choice":[
+                    {
+                        "content":"A. feasibility",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. fragment   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. enhancement ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. reinforcement ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. If politicians or other well-known people spend time in the ______, they are not in an influential position or very active in their profession for that time.",
+                "choice":[
+                    {
+                        "content":"A. obstacles",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. obstruction ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. willingness",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. wilderness",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. He lost his balance, ______ back against the rail and toppled over.",
+                "choice":[
+                    {
+                        "content":"A. strived",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. staggered  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. staved ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. supported",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. The trial could set an important ______ for dealing with large numbers of similar cases.",
+                "choice":[
+                    {
+                        "content":"A. president ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. precedence",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. paranoid",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. precedent ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"2. It is probably easier to make a(n) ______ between the courses of the planets, and two trains travelling in the same direction.",
+                "choice":[
+                    {
+                        "content":"A. analogy",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. similar  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. similarity ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. example ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. Therefore, we ________ the proposal for building up the financial safety area.",
+                "choice":[
+                    {
+                        "content":"A. prepare",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. propound  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. reflect",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. forward",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Some foreign teachers mistake Chinese students' ______ for indifference.",
+                "choice":[
+                    {
+                        "content":"A. retention",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. modesty   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. reticence ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. entertainment ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Traditional crafts remain remarkably unchanged by the slow ______ of modern ways.",
+                "choice":[
+                    {
+                        "content":"A. constitution",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. incursion  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. inclusion ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. invasion ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The writer's book depicts post ______ Tokyo, where familiar streets lie deserted.",
+                "choice":[
+                    {
+                        "content":"A. apocalyptic ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. approachable    ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. apologist",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. approach",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. Sex, in most species of bird, is a ______ activity.",
+                "choice":[
+                    {
+                        "content":"A. coincidence ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. constitutional  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. conspiracy",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. consensual",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"8. Sarah made a ______ gesture with her fist.",
+                "choice":[
+                    {
+                        "content":"A. menaced",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. mean  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. menacing ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. meaningful ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. China's Youku's and Sohu's online video platforms have already cut ______ with Disney to show all seasons of Desperate Housewives, Cougar Town and Grey's Anatomy. ",
+                "choice":[
+                    {
+                        "content":"A. deals",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. seals",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. sales",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. prices",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. The conquest of inflation has been the Government's ______ economic priority.",
+                "choice":[
+                    {
+                        "content":"A. consensual ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. protocol  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. overcoming",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. overriding",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. This is a story about military and tactics, with some ______ twists and turns.",
+                "choice":[
+                    {
+                        "content":"A. intuitive  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. counterintuitive ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. anti-intuitive",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. unintuitive",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Twenty million years ago, Idaho was not the arid place it is now. Rather, it was warm and damp, populated by dense ______ forest.",
+                "choice":[
+                    {
+                        "content":"A. primary",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. primo  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. primate",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. primordial ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. Do you think the Arab countries will come to ______ with Israel one day?",
+                "choice":[
+                    {
+                        "content":"A. terms",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. agreements  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. obligations ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. results ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. After drinking heavily, he staggered and had to ______ at a chair for support.",
+                "choice":[
+                    {
+                        "content":"A. hold ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. clutch ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. touch ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. catch ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. The calculations do not take into account any ______ in the share price.",
+                "choice":[
+                    {
+                        "content":"A. decline  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. declination    ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. influence  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. fluctuation",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. The modern ______ models give a very dismay future of the universe.",
+                "choice":[
+                    {
+                        "content":"A. cosmological",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. cosmoscopic   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. cosmogony ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. cosmogonist ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. The _____ of reprocessing spent nuclear fuel is inevitably being questioned. ",
+                "choice":[
+                    {
+                        "content":"A. reasonable ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. rationale ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. function",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. fluctuation",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Jackie Chan risks his life in taking action movies. He seems to have 9 lives, like the ______ cat.",
+                "choice":[
+                    {
+                        "content":"A. wise",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. magical   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. proverbial ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. imaginary ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. And there is concern that global warming could ______ tornadoes and flooding. ",
+                "choice":[
+                    {
+                        "content":"A. spawn",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. obstruct ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. pawn ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. endanger",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. This might seem very ______ to those who know nothing about it.",
+                "choice":[
+                    {
+                        "content":"A. perplexed",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. outlandish  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. perplexing ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. supported",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. I ______ to think what will happen in the case of a major emergency.",
+                "choice":[
+                    {
+                        "content":"A. dread  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. drill ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. drab",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. dribble",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Managers have learned to ______ with networking, artificial intelligence, computer-aided engineering and manufacturing.",
+                "choice":[
+                    {
+                        "content":"A. primary",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. grasp  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. grapple",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. command ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The accused is said to have ______ the witness.",
+                "choice":[
+                    {
+                        "content":"A. informed",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. immediate  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. intimated ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. intimidated ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. A gentleman to the last, he did not run, but merely attempted to ______ away.",
+                "choice":[
+                    {
+                        "content":"A. stroll ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. stagger ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. branch ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. fling ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. This quotation illustrated what the British sometimes refers to as “the ______ illiteracy of the Americans”.",
+                "choice":[
+                    {
+                        "content":"A. pretension   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. pretentious    ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. influencing  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. fluctuation ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. It is crucial that all documents presented are ______ and easily verifiable.",
+                "choice":[
+                    {
+                        "content":"A. authority",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. authentic   ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. automatic  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. autumnal  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. ______ into the future the sharing economy is a little like online shopping, which will soon become prosperous. ",
+                "choice":[
+                    {
+                        "content":"A. Watching ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Observing ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Peering",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Striking",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Suddenly all of the ______ and seemingly isolated examples took on a meaningful focus.",
+                "choice":[
+                    {
+                        "content":"A. snicker",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. magical   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. heavenly ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. bizarre",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"9. The response of the audience varied from outright rejection to warm ______. ",
+                "choice":[
+                    {
+                        "content":"A. hospital",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. hospitality ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. hostage ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hostility",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. The waters are crystal clear and offer a ______ opportunity for swimming.",
+                "choice":[
+                    {
+                        "content":"A. superb",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. supper  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. superficial  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. radiant",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Such a step will, of course, place your credit standing ______ serious jeopardy.",
+                "choice":[
+                    {
+                        "content":"A. at  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. in ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. on",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. toward",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. He has every ______ you desire and could play for any team.",
+                "choice":[
+                    {
+                        "content":"A. tribute",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. attitude  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. attribute",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. contribute ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The scientist developed one model to ______ a full year of the global climate.",
+                "choice":[
+                    {
+                        "content":"A. simplify",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. mediate  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. intimate ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. simulate ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. She saw people avoiding her, and still ______ smiled upon them.",
+                "choice":[
+                    {
+                        "content":"A. laboriously ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. proudly ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. hardly ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. unconsciously   ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. I was confronted with a(n) ______ of knobs, levers, and switches in the laboratory.",
+                "choice":[
+                    {
+                        "content":"A. array   ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. line    ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. table  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. ray  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The signs of an economic ______ are only just beginning.",
+                "choice":[
+                    {
+                        "content":"A. reveal ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. revival   ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. retreat   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. repetition   ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. This agreement is very ______ and open to various interpretations.",
+                "choice":[
+                    {
+                        "content":"A. ambiguous ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. anxious   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. exiguous",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. ambitious",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Instead, a single ______ brings us everything we are looking for. ",
+                "choice":[
+                    {
+                        "content":"A. information",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. magic   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. query",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. bizarre",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. Without the founder's drive and direction, the company gradually ______. ",
+                "choice":[
+                    {
+                        "content":"A. established ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. extinguished ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. distinguished ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. languished",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. They ______ the fashion world with the freshness of their clothing.",
+                "choice":[
+                    {
+                        "content":"A. stun ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. stare  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. superb  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. radiant",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"task3",
+        "name":"test3",
+        "questions":[
+            {
+                "question":"1. What engages us in folk legends is one of the key features that there's usually some real history behind them. They are often about real people that you can identify with the characters.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Folk legends are imaginative stories which have been passed down orally, from storyteller to storyteller since ancient times.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]Folk legends [·]Folktales"
+                    }
+                ]
+            },
+            {
+                "question":"3. Folktales are purely imaginative and so quite revealing about the culture and the connection between folktales and culture.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The animals are the main characters in animal stories. They are wild animals with animal characteristics but they can talk and behave like humans at the same time.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"wild animals or domestic"
+                    }
+                ]
+            },
+            {
+                "question":"5. The animal stories in the Norwegian folktales mean to reveal some realities like why bears to this day have such short tails.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"reveal some realities"
+                    }
+                ]
+            },
+            {
+                "question":"6. Transformation stories belong to the second category of Norwegian folk tale, the supernatural.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. The transformation stories also have a lot of the common things that tend to show up in folktales, such as the standard opening, 'once upon a time...' and stock characters like a prince, and a heroine who is a poor but beautiful peasant girl.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]and a heroine"
+                    }
+                ]
+            },
+            {
+                "question":"8. A supernatural story might involve a king who would act like you'd expect a Norwegian king to act.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9.  The comical stories contain no supernatural aspects, so they are usually more playful and amusing overall than supernatural stories.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]contain no [·]contain"
+                    }
+                ]
+            },
+            {
+                "question":"10. The first collection of Norwegian folk tales is published in mid-19th century, and there have been many new editions published since then.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Through its “Belt and Road” initiative, the Chinese government has been able to expand transcontinental connectivity across Asia and Europe, offering investment opportunities in overseas construction and implementing structural reforms to boost global economic growth.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. 2016 saw China taking an increasingly leading role in international economy and governance. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]economy [·]affair"
+                    }
+                ]
+            },
+            {
+                "question":"3. In September, the country successfully hosted the annual G20 summit in Hangzhou, specifically inviting a number of developed economies into the sessions to give a stronger voice to the developing world.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]developed economies [·]emerging economies"
+                    }
+                ]
+            },
+            {
+                "question":"4. 2016 also saw China ratify the Paris agreement on climate change, submitting its plan to the United Nations along with the United States. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. While the two countries have had their differences on a number of issues, China and the US have become global leaders in the fight to keep climate change in check. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. This has helped solidify ties with the US based on the new model of major-country relations. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. US President Donald Trump spoke highly of China's role on the world stage in his final news conference of 2016, in which he said that “no other bilateral relationship carries more significance than the US-China relationship.” ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]Donald Trump [·]Obama"
+                    }
+                ]
+            },
+            {
+                "question":"8. That sentiment has been echoed by Chinese Ambassador to the US, Cui Tiankai. “China and the US should be partners in cooperation, not adversaries in confrontation. Both countries will stand to win if we cooperate with each other, and both will stand to lose if we have confrontation.”",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. When it came to nuclear security, Chinese President Xi Jinping underlined its importance in April while attending the fourth Nuclear Summit in Washington, D.C. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. Director of China's National Nuclear Security Technology Center, Yang Zhimin, says China has already developed joint programs in the field with the US and that similar plans are also in the works with other countries. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"Deputy Director"
+                    }
+                ]
+            },
+            {
+                "question":"11. “We have designed training and exchange programs to take place next May, and we are going to open a training session on nuclear energy quality control and security with other Asia-Pacific countries.”",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"this coming May"
+                    }
+                ]
+            },
+            {
+                "question":"12. On the contentious issue of the South China Sea, China and the Philippines were able to put their differences aside in the latter half of the year, significantly raising the temperature in the hotly contested region. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]raising [·]dialing down"
+                    }
+                ]
+            },
+            {
+                "question":"13. In October, Chinese President Xi Jinping attended the eighth annual BRICS summit in India, where he pledged China's continuing commitment to deepening cooperation with its four other partners in the grouping— namely Brazil, Russia, India and South Africa. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"14. “China is a staunch supporter and participant in the BRICS group, and sees BRICS cooperation as one of its diplomatic priorities. We believe that BRICS cooperation will promote world peace, stability and prosperity.” ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"15. China held the rotating chair of BRICS last year.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"this year"
+                    }
+                ]
+            },
+            {
+                "question":"1. If you don't come up with a system, or a plan, you risk making decisions that waste money, or even drive away potential customers.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. The 'Four Ms': Market, Method, Money, Message are important areas to focus on when creating your advertising plan.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]Method [·]Media"
+                    }
+                ]
+            },
+            {
+                "question":"3. A market is a group of potential customers, the people who might become customers, buyers of your service or product.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Obviously the major media are television, radio, newspapers, magazines, avenues of communication, billboards, and so forth. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]avenues of communication"
+                    }
+                ]
+            },
+            {
+                "question":"5. You'll probably spend your money well to put your advertisement about classroom activities in the teachers' favor magazine, 'Educational Psychology' for example.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"the younger teachers generally don't read."
+                    }
+                ]
+            },
+            {
+                "question":"6. Good research gives you facts that can help you decide the right market to target, and the best media to use. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. You're advertising sports equipment, and you have been spending most of your budget during the holiday season when people buy gifts for each other. That would be a great time to advertise.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"who buy sports equipment tend not to give it as a holiday gift"
+                    }
+                ]
+            },
+            {
+                "question":"8. Facts from good research make you know for sure that you're advertising wisely and getting your money's worth.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. More customers will be attracted if they can “buy one get one free”, as what happens in the Soup Shop.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true,
+                        "reason":"[x]buy one get one free"
+                    }
+                ]
+            },
+            {
+                "question":"10. “Soup and Socks” is a good example of delivering wrong message in advertising, because people might associate the soup with feet and imagine the soup smelling like feet.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What does the professor mainly discuss? ",
+                "choice":[
+                    {
+                        "content":"A. Same characteristics that are common in several languages.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. A way to represent languages that are genetically related.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. Which languages probably evolved from Proto-Indo-European. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Linguists' opinions about why languages change over time.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. What point does the professor make when she says that some languages have similar-sounding words? ",
+                "choice":[
+                    {
+                        "content":"A. Most languages with similar-sounding words seem related but are not. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Eighteenth-century scholars reached an inaccurate conclusion about ancient languages. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. There is limited information available about how ancient languages sounded. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. There is more than one possible explanation for similarities among languages. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. What does the professor say was an important discovery in linguistics? ",
+                "choice":[
+                    {
+                        "content":"A. Sanskrit, Greek, and Latin had the same parent language. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Sanskrit, Greek, and Latin borrowed words from each other. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Prato-Indo-European was not a real language. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Most languages have several sister languages. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Based on the discussion, what information can be shown on a tree model? ",
+                "choice":[
+                    {
+                        "content":"A. That several languages share a common ancestor. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Whether a language is in the process of dying out. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. When a certain language came into existence. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Why sister languages exist in the same geographical area. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Why does the professor mention variation within a language? ",
+                "choice":[
+                    {
+                        "content":"A. To reinforce a point she made about Proto-Indo-European. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To explain the original purpose of the tree model. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To point out information that the tree model does not show. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. To explain why tree models have become overly complicated. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. What can be inferred about the professor when she says this? ",
+                "choice":[
+                    {
+                        "content":"A. She is not sure what causes languages to change. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. She does not think that languages change quickly. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. She thinks a fad she just mentioned about language might be hard to believe. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. She thinks languages evolved differently in the past than they do now. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What does the professor mainly discuss?",
+                "choice":[
+                    {
+                        "content":"A. The findings of a study on prairie dog communication.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The way that mammals learn to make warning cries.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Features that distinguish language from animal communication systems.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Various types of signal used by animals to communicate with each other.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why does the student mention a research project she studied in a biology class?",
+                "choice":[
+                    {
+                        "content":"A. To point out similarities in the behavior of rodents and monkeys.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To explain how she first became interested in animal communication.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To introduce an instance of an animal species that might have language.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. To show how she applied her knowledge of linguistics in another course.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. What is the professor's opinion of a recent study of prairie dogs? ",
+                "choice":[
+                    {
+                        "content":"A. She finds the study interesting but is not convinced that prairie dogs can communicate.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. She thinks that some claims made by the researchers are not supported by their findings.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. She sees the study as proof that mammals other than humans  possess a form of language.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. She thinks the researchers misinterpreted the high-pitched barks as warming signals.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. What does the professor say about the individual units that make up human languages?",
+                "choice":[
+                    {
+                        "content":"A. They can be combined to create an infinite number of new messages.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. They are not capable of being reproduced by members of any other species.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. They function in the same way as the signals all animals use to communicate.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They are acquired instinctively without having to be learned.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. The professor uses the sentence, “Move the large coyote fast”, in order to illustrate two features of language. What are they? Click on 2 answers.",
+                "choice":[
+                    {
+                        "content":"A. Displacement.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Learn ability.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Productivity.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Discreteness.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. Why does the professor say this?",
+                "choice":[
+                    {
+                        "content":"A. To see if anyone knows the answer to the student's question. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To suggest that the student is using the wrong terminology.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. To express frustration because she has already answered a similar question.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To determine whether she has been speaking clearly enough.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the lecture mainly about? ",
+                "choice":[
+                    {
+                        "content":"A. The importance of record keeping in the development of hypotheses ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The relationship between sunspots and Earth's geomagnetic cycle ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The progression of scientific knowledge about sunspots ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. The effect of sunspots on Earth's climate ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why did European astronomers before the time of Galileo not believe sunspots were on the Sun's surface? ",
+                "choice":[
+                    {
+                        "content":"A. They based their beliefs on earlier observations by Chinese astronomers. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The idea was contrary to their beliefs about objects in space. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The sunspots often changed their shape. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The sunspots were not always visible. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. Which hypothesis regarding sunspots did Galilee challenge? ",
+                "choice":[
+                    {
+                        "content":"A. Sunspots are shadows of planets trussing the Sun. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Sunspots are cloud in the solar atmosphere. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Sunspots are evidence of the Sun's rotation. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Sunspots are evidence of magnetic fields. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. What was the importance of Schwabe's observations? ",
+                "choice":[
+                    {
+                        "content":"A. They determined the age of sunspots. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They established that sunspots appear in cycles. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. They proved that sunspots were actually on the Sun. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They showed the reason that sunspots change their shape. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. What is the professor's attitude toward Schwabe's and Wolf's research? ",
+                "choice":[
+                    {
+                        "content":"A. He is surprised that the research is contradictory.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. He is impressed by how many years were spent on the research. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. He has difficulty believing that research should take so long. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. He doubts that the research is given enough credit by modern astronomers. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. Why does the professor imply about the discovery of a relationship between the sunspot cycle and Earth's geomagnetic cycle? ",
+                "choice":[
+                    {
+                        "content":"A. It proved that Gallieo's cloud hypothesis was correct. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. It showed how conditions on Earth can affect the Sun. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. It was the start of modern astronomy. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. It led to a period of intense scientific research. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the professor mainly discussing?",
+                "choice":[
+                    {
+                        "content":"A. The development of motor skills in children",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. How psychologists measure muscle activity in the throat",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. A theory about the relationship between muscle activity and thinking",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. A study on deaf people's problem-solving techniques",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why does the professor say about people who use sign language?",
+                "choice":[
+                    {
+                        "content":"A. It is not possible to study their thinking habits.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They exhibit laryngeal habits.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The muscles in their hands move when they solve problems.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. They do not exhibit ideomotor action.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. What point does the professor make when he refers to the university library?",
+                "choice":[
+                    {
+                        "content":"A. A study on problem solving took place there.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Students should go there to read more about behaviorism.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Students' eyes will turn toward it if they think about it.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. He learned about William James' concept of thinking there.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The professor describes a magic trick to the class, what does the magic trick demonstrate?",
+                "choice":[
+                    {
+                        "content":"A. An action people make that they are not aware of.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. That behaviorists are not really scientists.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. How psychologists study children.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. A method for remembering locations.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. What is the professor's opinion of the motor theory of thinking?",
+                "choice":[
+                    {
+                        "content":"A. Most of the evidence he has collected contradicts it.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. It explains adult behavior better than it explains child behavior.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. It is the most valid theory of thinking at the present time.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. It cannot be completely proved or disproved.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the main purpose of the lecture?",
+                "choice":[
+                    {
+                        "content":"A. To discuss possible explanations for childhood amnesia.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To describe key features of childhood amnesia.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To explain methods of testing memory in children of different ages.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To discuss why the ability of recalling memories diminishes as a person ages.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why does the professor ask student about their earliest memories?",
+                "choice":[
+                    {
+                        "content":"A. To help students relate to the topic she is about to discuss.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To establish that people vary in the time of their earliest memory.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To introduce the connection between language and memory.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To point out a common thing in the earliest memories of most people.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. What does the professor imply about some of the explanations for childhood amnesia that she describes?",
+                "choice":[
+                    {
+                        "content":"A. They can never be proved or disproved.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They were formed without proper evidence.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. They explain only certain types of childhood amnesia.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They are contradicted by her own research.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. How was recall tested in children without language ability?",
+                "choice":[
+                    {
+                        "content":"A. By recording children's responses to familiar faces.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. By observing children's reaction to a repeated series of actions.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. By having children imitate each other's actions. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. By having children imitate an ordered sequence of actions.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. The professor mentions a study in the 1980s that tested memory in children under age 3. What did the researchers conclude from this study?",
+                "choice":[
+                    {
+                        "content":"A. Young children do not develop the capacity for recall until after age 3.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Piaget's theory linking language development to memory was incorrect.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. Young children typically remember events for about nine months.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The formation of memories is dependent upon language development.",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    }
+]

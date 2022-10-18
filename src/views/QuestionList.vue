@@ -1,6 +1,6 @@
 <script setup>
-import { ref, reactive,onMounted,onUnmounted } from 'vue'
-import { Refresh, Top, Hide, View } from '@element-plus/icons-vue'
+import { ref, reactive,watch } from 'vue'
+import { Refresh, Hide, View } from '@element-plus/icons-vue'
 
 const props = defineProps({
   dataParam: {
@@ -10,6 +10,11 @@ const props = defineProps({
 })
 
 let data1 = reactive(props.dataParam)
+
+watch(props, (newX) => {
+  data1 = reactive(newX.dataParam)
+})
+
 function onSelect(selectItem) {
   selectItem.selected = !selectItem.selected
 }
@@ -50,44 +55,13 @@ function shuffleSelf(array, size) {
     return array;
 }
 
-const backTopFlag = ref(false)//用来判断样式
-const backTop = () => {
-  let top = document.documentElement.scrollTop//获取点击时页面的滚动条纵坐标位置
-  const timeTop = setInterval(() => {
-    document.documentElement.scrollTop = top -= 100//一次减50往上滑动
-    if (top <= 0) {
-      clearInterval(timeTop)
-    }
-  }, 5)//定时调用函数使其更顺滑
-}
-const handleScroll = () => {
-  if (document.documentElement.scrollTop > 20) {
-    backTopFlag.value = true
-  } else {
-    backTopFlag.value = false
-  }
-  //往下滑超过20则显示 否则则不显示按钮
-}
-
-onMounted(() => {
-  window.addEventListener('scroll', handleScroll)
-})//监听滚动事件
-
-onUnmounted(() => {
-  window.removeEventListener('scroll', handleScroll)
-})//离开页面时移除监听事件
-
 </script>
 
 <template>
-  <div style="width: 100%;text-align: right;position: sticky;top: 10px;z-index: 999;">
+  <el-affix :offset="10" style="text-align: right;">
     <el-button circle :icon="Refresh" @click="onRestart()"></el-button>
     <el-button circle :icon="isOpenEyes? View:Hide" @click="openEyes()" style="margin: 0 5px 0 5px;"></el-button>
-  </div>
-  
-  <div v-show="backTopFlag" style="width: 100%;text-align: right;position: fixed;bottom: 20px;z-index: 999;">
-    <el-button circle :icon="Top" @click="backTop()" style="margin-right: 38px;"></el-button>
-  </div>
+  </el-affix>
   
   <el-card class="box-card" v-for="item,index in data1">
     <template #header>
@@ -101,6 +75,7 @@ onUnmounted(() => {
       </el-button>
     </div>
   </el-card>
+  <el-empty v-if="data1.length == 0" description="暂无数据" />
 </template>
 
 <style>
