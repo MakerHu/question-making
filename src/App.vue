@@ -1,6 +1,7 @@
 <script setup>
 import TheWelcome from './views/QuestionList.vue'
 import { ref, reactive, onMounted } from 'vue'
+import { Edit } from '@element-plus/icons-vue'
 import axios from 'axios'
 
 import questions from './assets/data/questions.json' 
@@ -49,8 +50,10 @@ onMounted(() => {
 </script>
 
 <template>
-  <el-button @click="dialogVisible = true">
-  </el-button>
+  <div style="text-align: right;">
+    <el-button circle :icon="Edit" @click="dialogVisible = true" style="margin-right:5px"></el-button>
+  </div>
+  
   <header>
     <div>
       <div style="display: flex;justify-content: center;margin-bottom: 10px;">
