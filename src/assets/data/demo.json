@@ -1,0 +1,34 @@
+[
+    {
+        "id":"tag1",
+        "name":"标签1",
+        "questions":[
+            {
+                "question":"这里填问题的描述",
+                "choice":[
+                    {
+                        "content":"选项内容1",
+                        "correct":true
+                    },
+                    {
+                        "content":"选项内容2",
+                        "correct":false
+                    },
+                    {
+                        "content":"选项内容3",
+                        "correct":false
+                    },
+                    {
+                        "content":"选项内容5",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"tag2",
+        "name":"标签2",
+        "questions":[]
+    }
+]

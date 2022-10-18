@@ -5,16 +5,25 @@ import { Edit } from '@element-plus/icons-vue'
 import axios from 'axios'
 
 import questions from './assets/data/questions.json' 
+import demo from './assets/data/demo.json' 
 
 const tabPosition = ref('')
 const flag = ref(true)
 const dialogVisible = ref(false)
 const jsonUrl = ref('')
 const loadFlag = ref(false)
+const demoJson = ref(JSON.stringify(demo,censor,4))
 
 const data = reactive({
   questionsData: reactive(questions)
 })
+
+function censor(key,value){
+    if(typeof(value) == 'function'){
+         return Function.prototype.toString.call(value)
+    }
+    return value;
+}
 
 function requestJson(url) {
   loadFlag.value = true
@@ -85,6 +94,14 @@ onMounted(() => {
     width="350px"
   >
     <el-input v-model="jsonUrl" placeholder="Json文件链接" />
+    <span>Json格式参考</span>
+    <el-input
+      v-model="demoJson"
+      type="textarea"
+      :rows="10"
+      placeholder="Please input"
+    />
+
     <template #footer>
       <span class="dialog-footer">
         <el-button @click="dialogVisible = false">取消</el-button>
