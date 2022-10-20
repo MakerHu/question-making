@@ -83,7 +83,7 @@ onMounted(() => {
     
   </main>
   <footer>
-    <div style="display: flex;justify-content: center;font-size: small;">©胡江浩 张星宇 黄琳棠</div>
+    <div style="display: flex;justify-content: center;font-size: small;margin-top: 20px;">©胡江浩 张星宇 黄琳棠</div>
   </footer>
 
   <el-backtop :right="30" :bottom="30" style="width: 32px;height: 32px;" />
