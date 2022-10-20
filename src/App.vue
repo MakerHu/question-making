@@ -65,7 +65,7 @@ onMounted(() => {
   <header>
     <div>
       <div style="display: flex;justify-content: center;margin-bottom: 10px;">
-        <img alt="逢考必过" class="logo" src="./assets/fkbg.png" height="150" />
+        <a href="https://www.makerhu.com/"><img alt="逢考必过" class="logo" src="./assets/fkbg.png" height="150" /></a>
       </div>
     </div>
   </header>
