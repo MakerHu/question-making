@@ -1,0 +1,3374 @@
+[
+    {
+        "id": "tag1",
+        "name": "阅读Task1",
+        "questions": [
+            {
+                "question":"1. According to the author, knowing some science behind traffic can ______.",
+                "choice":[
+                    {
+                        "content":"A. make sitting in it much better",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. teach us how to avoid some of the mistakes we often make",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. avoid merging from one lane to the other",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. avoid ruining our day in a traffic jam",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. “Chances are good that you’re doing it wrong” in paragraph 2 means that ______.",
+                "choice":[
+                    {
+                        "content":"A. you need to wait for good chances to merge",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. merging from lane to lane is always wrong",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. you have good chances to avoid making mistakes",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. you are likely to do it wrong",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. The right way to merge is to _____, according to the author.",
+                "choice":[
+                    {
+                        "content":"A. wait until the last minute",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. let traffic fall into a more natural pattern",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. cut down on backups",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. rely on other drivers to let you in",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Researchers have found that traffic jams are usually caused ______.",
+                "choice":[
+                    {
+                        "content":"A. by the sheer volume of traffic on the roads",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. because drivers cannot maintain a constant speed",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. because someone who tapped their brakes to let another driver merge",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. because the one caused the problem has gone on his or her way",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. “The transportation methods of the olden days had their share of issues”(para. 6) means the problem of traffic ______.",
+                "choice":[
+                    {
+                        "content":"A. pollution",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. jam",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. accidents",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. delay",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The problem of horse manure was solved by ______.",
+                "choice":[
+                    {
+                        "content":"A. reducing the number of horses in big cities  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. spending a lot of money cleaning it up ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. holding the first international urban planning conference",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. the advent of the car",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"7. What would have happened if the electric cars of Victorian London had been more economical?",
+                "choice":[
+                    {
+                        "content":"A. They would not have brought the entirely new set of problems.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. There would not have been such heavy air pollution.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. There would be more people buying and driving electric cars.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. There would be less traffic jam and accidents.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Which of the following statements is not true according to the passage?",
+                "choice":[
+                    {
+                        "content":"A. The billboard is one-year old highway occupant.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Drivers spend less time paying attention to the road when there are billboards around.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Digital billboards only make the things worse.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Drivers tend to run the light after exposing to cheerful, happy billboards.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. Why more lanes don’t mean less traffic?",
+                "choice":[
+                    {
+                        "content":"A. Because more lanes will evoke drivers’ annoyance at the current delay.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Because the amount of traffic actually went up following the addition of new roads.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. Because they’ve tried it in notoriously congested cities like Paris and San Francisco. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Because if lanes or side streets are eliminated, traffic will adjust to become better or worse than it was before.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. According to the passage, the trick to relieve the heavy traffic is to ______.",
+                "choice":[
+                    {
+                        "content":"A. expand the lanes",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. make roads more available",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. make roads a privilege to use",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. add new lanes",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Which of the following statement is the main idea of this passage?",
+                "choice":[
+                    {
+                        "content":"A. Scientists try to restore long-term memory by an electronic implant.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Disrupted neuronal networks often prevent long-term memories from forming.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Berger has designed silicon chips to mimic the signal processing.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Electronic implant allows us to recall experiences and knowledge for more than a minute.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Which of the following statement is false?",
+                "choice":[
+                    {
+                        "content":"A. The experiments show a silicon chip connected to animal brains by electrodes can process like actual neurons.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Berger and his research partners have conducted neural prostheses tests on human.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. Berger and his research partners are putting in the capacity to generate memories.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Berger and his coworkers demonstrated that they could help monkeys retrieve long-term memories",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. In paragraph 4, Berger cited ______ recent successful cases in neuroprosthetics.",
+                "choice":[
+                    {
+                        "content":"A. two",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. three",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. four",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. five",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The ______ makes short-term memories into long-term memories.",
+                "choice":[
+                    {
+                        "content":"A. neuroprosthetics",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. cochlear",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. retinas",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hippocampus",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. In paragraph 7, \"That's important because you can reduce it to this...\"It\" refers to ______.",
+                "choice":[
+                    {
+                        "content":"A. paragraph length",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. memory",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. electrode",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. framework",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. In Berger's point of view, which of the following is not a mistake made by neuroscientists?",
+                "choice":[
+                    {
+                        "content":"A. They probe this mysterious realm of the brain but haven't attempted to go much deeper.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Their reports oversimplify what's actually taking place.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. They find an important event in the environment and count action potentials only.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They are supposed to explain things, not just describe things.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"7. \"This is you in my brain,\" in paragraph 9, \"you\" refers to ______.",
+                "choice":[
+                    {
+                        "content":"A. a neuroscientist",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. his colleague",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. the author",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. the audience",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Berger and his colleagues hope to implant ______ in animals within the next two years.",
+                "choice":[
+                    {
+                        "content":"A. prefrontal cortex",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. hippocampus",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. cocaine",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hippocampal chips",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"9. \"Berger allows that this may well be the case\" in paragraph 12, \"this\" means that ______.",
+                "choice":[
+                    {
+                        "content":"A. the codes are not generalizable, and different inputs are processed in various ways",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. his chips may form long-term memories in only a limited number of situations",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. the morphology and biophysics of the brain constrain what it can do",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. the goal is to improve the quality of life for somebody who has a severe memory deficit",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. The last sentence of the passage shows that Berger never thought ______.",
+                "choice":[
+                    {
+                        "content":"A. the electrodes implant would go into humans",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. they would discuss when and how",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. he would live a long life",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. his lifelong research would be successful soon",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. What did Backee find from the data transmitted from the cell-phone tower?",
+                "choice":[
+                    {
+                        "content":"A. She found gold under the tower near the town of Kericho.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. She found people making calls or sending text messages originating at the Kericho tower.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. She found a significant waypoint for transmission of malaria.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. She found a busy tea plantation that was probably full of migrant workers.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. What did the satellite images reveal in paragraph 2?",
+                "choice":[
+                    {
+                        "content":"A. The reasons for 16 times more trips away from the area.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The reasons for 3 times more visit to northeast Lake Victoria region",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The reasons for a busy tea plantation of migrant workers.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The reasons for a ton of malaria infected.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. “They” in the second sentence of paragraph 3 refers to ______.",
+                "choice":[
+                    {
+                        "content":"A. travelers",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. malaria cases",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. migrant workers",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. models",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. Which of the following does not belong to an existing effort to gather travel data?",
+                "choice":[
+                    {
+                        "content":"A. Experts gather the best kind of spotty travel data.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Public-health workers literally count people at transportation hubs. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Nurses in far-flung clinics ask newly diagnosed malaria victims where they’ve been recently.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. At many border crossings in Africa, they keep little slips of paper.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. What can the detailed information about the patterns of human travel help epidemiologists?",
+                "choice":[
+                    {
+                        "content":"A. They can decide which spot to travel at best.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They can keep track of little slips of paper.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. They can have abstractions and general models on travel patterns.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They can pinpoint where the importation of a disease is.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. Some cheap, targeted campaigns of text messages include warning visitors ______.",
+                "choice":[
+                    {
+                        "content":"A. not to enter Kericho ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. to use bed netting ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. to spray every puddle for mosquito larvae",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. to leave the malarial areas",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. Which of the following is not the focus of Eagle’s work?",
+                "choice":[
+                    {
+                        "content":"A. The genetics of the malaria parasite.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Ethnic divisions in Nairobi slums.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The spread of cholera in Rwanda.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Mobile-phone surveys in the developing world.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Mining phone records could be particularly useful in poor regions to _______.",
+                "choice":[
+                    {
+                        "content":"A. monitor epidemics ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. optimize transportation systems",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. manage disasters",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. make up for the shortage of other data-¬gathering infrastructure",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"9. Which of the following is not mentioned as the function of data from mobile phones?",
+                "choice":[
+                    {
+                        "content":"A. Location tracking and information on commercial activity.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Search history and links in social networks.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Trace a person’s movements to protect personal safety.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Produce targeted disease-fighting strategies.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. According to Buckee, what is the future of epidemiology?",
+                "choice":[
+                    {
+                        "content":"A. To merge data into mobility models to produce disease-fighting strategies.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To target drug-resistant strains of the malaria parasite.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To trace the strains emerging in Cambodia and elsewhere.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To eradicate malaria by reversing progress against the disease.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Which of the following words does not describe London Underground?",
+                "choice":[
+                    {
+                        "content":"A. miraculous",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. metropolitan",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. overcrowded",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. labyrinthine",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. We can infer from the passage that ______.",
+                "choice":[
+                    {
+                        "content":"A. London Underground was a miraculous feat of Victorian engineering   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. the first section of the “Metropolitan Railway” opened in Paddington in 1863 ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. London suffered from heavy traffic even over one and a half century ago   ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. the Underground works smoothly across the city in a matter of minutes ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The man who came up with the idea of an underground transport system was a(n) ______.",
+                "choice":[
+                    {
+                        "content":"A. engineer",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. lawyer",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. newspaper reporter",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. artist ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. A large number of ______ contributed to the construction of London Underground.",
+                "choice":[
+                    {
+                        "content":"A. engineers",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. characters",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. entrepreneurs",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. artists ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Which of the following words does not describe Leslie Green’s station?",
+                "choice":[
+                    {
+                        "content":"A. bold",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. elegant",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. recognisable",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. enthusiastic ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. The station designed by Charles Holden reminds people of the ______.",
+                "choice":[
+                    {
+                        "content":"A. cylinder lights",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. grand hotel",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. West End theatre",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Jazz Age  ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"7. In the sentence “Londoners have a lot to thank him for” in paragraph 14, “him” refers to _____.",
+                "choice":[
+                    {
+                        "content":"A. Frank Pick",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Nikolaus Pevsner",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Jacob Epstein",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Alfred Hitchcock  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Which of the following is not true about the map of London?",
+                "choice":[
+                    {
+                        "content":"A. The map is not accurate geographically.  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. The map is how Londoners mentally imagine the city.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Londoners depend much on the map.   ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The map has an iconic design—much copied, never bettered.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. The London Underground has a life of its own because ______.",
+                "choice":[
+                    {
+                        "content":"A. if somewhere is not on the map, people can’t tell you where it is",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. it has its own species of mosquito",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. the thick moquette fabric on the Central Line seats tells a story  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. it celebrates its 150th birthday",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. The blue pattern of the thick moquette fabric on the Central Line seats proves that ______.",
+                "choice":[
+                    {
+                        "content":"A. it is a cunningly designed depiction of London’s skyline",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. travelers can hardly enjoy the incidental beauty of the underground",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. the Underground is in its scope, ambition and attention to detail  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. one rarely thinks of it as a romantic place",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1.What’s the main idea of this passage?",
+                "choice":[
+                    {
+                        "content":"A. A big wedding can leave many couples at breaking point.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Couples wrestling with 150-seat table plans should take heart.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Bigger weddings predict more successful marriages.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. The larger ceremonies the couples have, the higher-quality marriages they will enjoy.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2.Researchers believe bigger weddings predict more successful marriages because ______.",
+                "choice":[
+                    {
+                        "content":"A. people who can afford an opulent wedding are likely to be financially secure",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. people who can afford an opulent wedding can control their wealth better",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. marrying in front of a large number of people demonstrates greater commitment",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. marrying in front of a large number of people discourages divorce",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3.It can be inferred from paragraph 4 that ______.",
+                "choice":[
+                    {
+                        "content":"A. wedding is a public expression of love and commitment",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. people try to keep present attitudes and behaviours in line with our past conduct",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. the desire for consistency is likely enhanced by public expressions of intention",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. those who hold a formal wedding are likely to have stronger social networks ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4.According to Dr Rhoades, “having more experience” refers to people ______.",
+                "choice":[
+                    {
+                        "content":"A. whose marriage were happier and more content",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. who had more sexual partners before marriage",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. who want to hire an experience architect ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. who may be harder to invest in, or commit to a marriage",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5.Figures from the Office for National Statistics show that ______.",
+                "choice":[
+                    {
+                        "content":"A. marriage in Britain is stronger in the older generation",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. the divorce rates are falling in the younger generation",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. adultery has dropped to an all-time low ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. the divorce rates are climbing in the older generation",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. The author of this passage supposes that ______.",
+                "choice":[
+                    {
+                        "content":"A. weddings are the most elaborate and costly form of old school pageantry",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. weddings are not only expensive but also stupid",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. it is unwise for Americans to spend heavily on weddings ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. money could be spent on the cooler stuff like weddings",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. The Knot released its annual wedding survey that ______.",
+                "choice":[
+                    {
+                        "content":"A. couples were numbing on matrimonial celebrations",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. wedding expanse was high all over the country",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. most couples chose to get hitched in Manhattan",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. wedding was a fairly impractical thing to invest in",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. If your fianceé were dead set on a fairytale wedding, you could ______.",
+                "choice":[
+                    {
+                        "content":"A. forgo the wedding and marriage and enjoy a single life",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. persuade her to save your hard-earned money for the major expenses in married life",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. buy into the Marriage Industrial Complex on a union",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. blow your financial load on a mortgage",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. It can be inferred from paragraph 4 that ______.",
+                "choice":[
+                    {
+                        "content":"A. one could get pretty far if one spent $33,000 to travel alone",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. one could spend much money on amenities and entertainment",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. one could treat oneself if he were free from the shackles of wedding",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. money can be spent much more wisely on many other things other than on wedding",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. “A nice house cat” is mentioned in paragraph 6 because it ______.",
+                "choice":[
+                    {
+                        "content":"A. can save money for you",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. helps attracting hotties for the rest of your life",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. won’t care if you bring home someone new every weekend ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. just hates everyone indiscriminately",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. The author came to the United States in 1969 dreaming to ______.",
+                "choice":[
+                    {
+                        "content":"A. win the Nobel Prize",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. acquire a Bill Gates fortune",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. pursue a PhD degree",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. arm with the excellent education",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. The author ordered “deserts” instead of desserts at restaurants because ______.",
+                "choice":[
+                    {
+                        "content":"A. his English is not good enough                 ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. he used to make fun at restaurants",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. America was a magnet for his generation                 ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. he wanted “deserts” instead of desserts",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The author won the Nobel Prize in 1999 because ______.",
+                "choice":[
+                    {
+                        "content":"A. he took advantage of Edison’s dictum                 ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. he was in the right place at the right time ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. he was in America and at Caltech                ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. he was benefited from Caltech’s ambiance and America’s system of support",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. Which of the following statement is not true?",
+                "choice":[
+                    {
+                        "content":"A. It was passion for science that supplied the energy for success.                ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. It was optimism that made the almost-impossible possible. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Success comes to the prepared mind.                ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Success is what you reap when you sow in the rain.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. Which of the following is not described as a challenge the United States is facing?",
+                "choice":[
+                    {
+                        "content":"A. The so-called global age threatened by chemical, biological, and nuclear disasters.                ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. The rise of economic superpowers such as China and India. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The conflicts and wars overseas.                ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The change in cultural, educational, and political values.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. According to the author, Caltech graduates are fortunate because ______.",
+                "choice":[
+                    {
+                        "content":"A. they can still make their own success in their own way                ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. they receive education in an advanced and developed society",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. they are free to speak and worship as they please                 ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. they can sleep at night without fear of the government or police ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. “Curiosity” in paragraph 8 is ______.",
+                "choice":[
+                    {
+                        "content":"A. the central concept of Caltech’s research              ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. the research at NASA’s Jet Propulsion Laboratory",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. the name of the Mars Science Lab rover                 ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. the mission of the first-ever precision landing on Mars ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Which of the following statement is true according to paragraph 9?",
+                "choice":[
+                    {
+                        "content":"A. The quest for knowledge has been an agent for the naissance and renaissance of human societies.            ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. The intellectual achievements cause paradigm shifts in understanding the cosmos.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The Renaissance would have been impossible without the achievements of liberty.                 ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Politicians have given too much credit to the impact of politics. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. In paragraph 12, university students marched toward Tahrir Square in Cairo for ______.",
+                "choice":[
+                    {
+                        "content":"A. the removal of Mr. Hosni Mubarak in eighteen days     ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. the Egyptian uprising",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. liberty from a thirty-year-old regime                  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. the demonstration of peaceful organizational skills ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. We can infer from this passage that the author is ______.",
+                "choice":[
+                    {
+                        "content":"A. pessimistic because the world is destined always to be embroiled in conflict and war     ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. optimistic because much can be achieved by the strategic use of the soft power of science",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. realistic because a new policy will be chartered for leadership in innovation                  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. naïve to think of applying such idealistic values in our imperfect world",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Why does the author say “water is doing pretty well as a revenue generator”?",
+                "choice":[
+                    {
+                        "content":"A. The bottled water is an $8 billion industry in the United States alone.                ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. The Americans consumed about 7 billion gallons of water in 2005 alone.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The bottled water costs up to 10,000 times more than tap water.                  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The bottled water has an impressive market share.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. What does “it” in the repetition of “some of it” in paragraph 2 refer to?",
+                "choice":[
+                    {
+                        "content":"A. Debate.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Bottled water.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Share.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Controversy. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. The ecological implications of bottled water argue that ______.",
+                "choice":[
+                    {
+                        "content":"A. the wells to get bottled water should go deeper                ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. bottled water is something that flows freely from the tap",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. we shouldn’t bottle and transport something that flows freely from the tap                   ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. there are billions on billions of gallons of something that flows freely from the tap",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The artesian water is drawn from a ______.",
+                "choice":[
+                    {
+                        "content":"A. confining layer",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. confined aquifer  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. unconfined aquifer",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. unconfining layer",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Regular spring water generally has about ______ ppm of TDS.",
+                "choice":[
+                    {
+                        "content":"A. 250",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. 125",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. 100",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 50",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. One important feature of naturally sparkling water is ______.",
+                "choice":[
+                    {
+                        "content":"A. natural",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. carbonation",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. sparkling",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. replacement",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. What is removed in the process of “demineralized”?",
+                "choice":[
+                    {
+                        "content":"A. Dissolved solids.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Carbonation levels.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Chlorine.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Disinfectant.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Which of the following statement is true?",
+                "choice":[
+                    {
+                        "content":"A. Spring water can be easily collected from the surface of the earth.               ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Spring water is protected underground.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Spring water from a hole drilled into the source is sanitary.                  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Spring water collected from underground or surface shares the same composition.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"9. It can be inferred from the bottled-water regulations that ______.",
+                "choice":[
+                    {
+                        "content":"A. the FDA regulates bottled water as a packaged food item               ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. FDA regulations for bottled water are more lax than the EPA regulations ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. bottled-water is safer than the municipal drinking water                  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. the municipal drinking water undergoes stricter regulations ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. Which of the following statement is true as regards to “healthy”?",
+                "choice":[
+                    {
+                        "content":"A. All water is “healthy” because it doesn’t possess high levels of harmful contaminants.               ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Tap water taken from a New York City drinking fountain is tested for contaminants.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Mineral water is healthier than tap water because of its higher mineral count.  ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. The difference of bottled-water and tap water is a matter of semantics.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. lan Flemingis the ______ of James Bond.",
+                "choice":[
+                    {
+                        "content":"A. novelist",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. director",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. first actor",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. protagonist",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. An ornithologists interested in ______.",
+                "choice":[
+                    {
+                        "content":"A. West Indies",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. bibles",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. birds",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. movies",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. It can be inferred from paragraph 4 that ______.",
+                "choice":[
+                    {
+                        "content":"A. James Bond was an extremely dull, uninteresting man",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. James Bond was a well-Known ornithologist",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. James Bond was the author of Birds of the West Indies",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Mrs. Bond was grateful for Fleming's adopting the name.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. The deadliest film of James Bond totals a death count of ______.",
+                "choice":[
+                    {
+                        "content":"A. 196",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. 135",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. 49",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 354",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Fleming wrote Connery's heritage into the characterbecause ______.",
+                "choice":[
+                    {
+                        "content":"A. Ian Fleming was apprehensive about Sean Connery's casting",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Connery didn't fit the character lan Fleming had in mind",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Connery did a superb jobin\"Dr. No\"",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. James Bond's father was Scottish and was from the town of Glencoe",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The embryonic melodies of the James Bond Theme ______.",
+                "choice":[
+                    {
+                        "content":"A. come from a song about sneezing from a failed musical",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. are sung by someone with unlucky sneeze",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. are first heard in Dr. No",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. can be heard in their original form for nearly 45 years",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. A fan, named Geoffrey Boothroyd, suggested James Bonduse a ______.",
+                "choice":[
+                    {
+                        "content":"A. 25 Beretta",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. 25jacketed type",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. 22 rim fire",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. revolver",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"8. The screenplay for \"You Only Live Twice\" was written by ______.",
+                "choice":[
+                    {
+                        "content":"A.lan Fleming",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Roald Dahl",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. Harry Saltzman",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Albert Broccoli",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. Clint Eastwood turned down James Bond because ______",
+                "choice":[
+                    {
+                        "content":"A. he felt the role should be played by an American",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. he was not offered good money to do James Bond",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. James Bond was SeanConnery's deal",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. he didn't feel right to be doing it",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. By saying \"I wish I had had James Bond on my staff\" ,John F. Kennedywas ______ of James Bond.",
+                "choice":[
+                    {
+                        "content":"A. an officer",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. an actor",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. a fan",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. an official",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tag2",
+        "name": "阅读Task2",
+        "questions": [
+            {
+                "question":"1. There is no reason why a gifted aircraft designer should also be a capable pilot. In the same way, a brilliant pilot can be a menace ______ the wheel of a car.",
+                "choice":[
+                    {
+                        "content":"A. at",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. toward",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. before",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. behind",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"2. The work would have been inconceivable before the ______ of microprocessors.",
+                "choice":[
+                    {
+                        "content":"A. advent",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. advantage",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. advance",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. adventure ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The Qinghai-Tibet highways are built to ______ gradual temperature changes.",
+                "choice":[
+                    {
+                        "content":"A. accustom",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. accommodate",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. intimate",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. intimidate ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The staff is well trained in ______ and attentive service to each and every guest.",
+                "choice":[
+                    {
+                        "content":"A. contain",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. contents",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. courteous",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. curtains  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. He ______ himself for having been so careless toward his wife and family.",
+                "choice":[
+                    {
+                        "content":"A. cursed",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. caused",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. coursed",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. accused ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. How people in a certain era bury their dead says much about the ______ attitudes toward death.",
+                "choice":[
+                    {
+                        "content":"A. preserving",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. pretending",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. preventing",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. prevailing ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"7. It seems the most successful slimmers ______ a marathon a week, according to research. ",
+                "choice":[
+                    {
+                        "content":"A. chalk in",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. back in",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. chalk up",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. back up",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Her book paints a ______ picture of the problems women now face. ",
+                "choice":[
+                    {
+                        "content":"A. bleak",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. bleeding",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. black",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. bizarre",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. \"The Government is suppressing inflation by ______ the economy,\" he said. ",
+                "choice":[
+                    {
+                        "content":"A. damaging",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. devastating",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. destructing",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. constructing ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. If trade doesn't improve soon, the industry will grind to a ______.",
+                "choice":[
+                    {
+                        "content":"A. delay",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. pause",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. stop",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. halt",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. Your plan of going abroad is an ______ decision.",
+                "choice":[
+                    {
+                        "content":"A. audience",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. audible",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. authentic",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. audacious",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"2. Computers can instantly ______ millions of information bits.",
+                "choice":[
+                    {
+                        "content":"A. retrieve",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. recommend",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. grapple",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. command",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. We ______ an equal society, free of poverty and disease.",
+                "choice":[
+                    {
+                        "content":"A. inform",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. envision",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. intimate",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. intimidate",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. They don't like strangers who ______ their noses into their affairs.",
+                "choice":[
+                    {
+                        "content":"A. stroll",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. stagger",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. branch",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. poke",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. The rest of the world struggles on with its ______ problems, poverty and debt.",
+                "choice":[
+                    {
+                        "content":"A. pretension",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. pretentious",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. perpetual",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. prevenient",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The branches tore at my jacket and ______ my hands and face.",
+                "choice":[
+                    {
+                        "content":"A. scared",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. scratched",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. stripped",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. scrambled",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. Man's first landing on the moon was a ______ of great daring.",
+                "choice":[
+                    {
+                        "content":"A. feat",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. feast",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. fast",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. fasten",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Your ______ explanation could hardly convince anybody.",
+                "choice":[
+                    {
+                        "content":"A. forwarding",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. forgoing",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. furbish",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. farfetched",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"9. I agree with the ______ that the best defence is offence.",
+                "choice":[
+                    {
+                        "content":"A. theorem",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. theorv",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. theme",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. theology",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. A number of the French players went ______ completely out of control.",
+                "choice":[
+                    {
+                        "content":"A. nods",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. nuts",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. mimic",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. nuance",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Scientists have known how to ______ the limitless power of the sun.",
+                "choice":[
+                    {
+                        "content":"A. harness",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. harvest",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. drab",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. grasp",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Health ministers gather in Amsterdam to agree a strategy for controlling ______.",
+                "choice":[
+                    {
+                        "content":"A. parasite",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. malaria",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. larva",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. culprit  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. Is it worth fighting a big war, in the name of a(n) ______ like sovereignty?",
+                "choice":[
+                    {
+                        "content":"A. information",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. construction",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. destruction",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. abstraction ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. Most drugs offer either no real improvement or, ______ best, only moderate improvements.",
+                "choice":[
+                    {
+                        "content":"A. at",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. to",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. for",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. in",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5.The major impact of this ______ worldwide is yet to come.",
+                "choice":[
+                    {
+                        "content":"A. epidemiologist",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. epidemiological",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. epidemic",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. epidemiology  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. In his youth, Wang received only a ______ secondary education.",
+                "choice":[
+                    {
+                        "content":"A. spot",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. sporty",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. spotting",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. spotty   ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"7. As a ______ of finance and communications, Paris is now almost equal to London. ",
+                "choice":[
+                    {
+                        "content":"A. hut",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. hub",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. hutch",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hud",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. They've been living and working peacefully with various ______ groups.",
+                "choice":[
+                    {
+                        "content":"A. ethnic",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. either",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. ethical",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. ethic",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. He had a small and crowded study and his chair sat in a ______ of books and magazines. ",
+                "choice":[
+                    {
+                        "content":"A. huddle",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. puddle ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. hostage",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hostile",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. The policy tried to check the _______ growth of public expenditure.",
+                "choice":[
+                    {
+                        "content":"A. optional",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. opponent",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. exponential",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. experimental",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Slimming snacks that offer ______ weight loss are a big con trick.",
+                "choice":[
+                    {
+                        "content":"A. miracle",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. mirage",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. miraculous",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. miraculously",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. At the enchanted ______ twilight I felt a haunting loneliness sometimes.",
+                "choice":[
+                    {
+                        "content":"A. metro",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. metropol",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. metropolis",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. metropolitan ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. Coca-Cola Russia released ______ sodas Coke, Fanta, Sprite in small 8-ounce cans.",
+                "choice":[
+                    {
+                        "content":"A. icon",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. iconic",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. intimate",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. intimidate ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. The director used ______ devices to keep the audience in suspense.",
+                "choice":[
+                    {
+                        "content":"A. ingenious",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. ingenuity",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. ingredient",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. industrious  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. At the bottom of the bill, you will notice various ______ expenses such as faxes.",
+                "choice":[
+                    {
+                        "content":"A. incidence",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. incidental",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. influencing",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. fluctuation ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. It is outrageous that people doing well-paid jobs should ______ about how badly off they are.",
+                "choice":[
+                    {
+                        "content":"A. moan",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. argue",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. menace",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. autumnal  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. It is ______ to be discussing compulsory redundancy policies for teachers.",
+                "choice":[
+                    {
+                        "content":"A. assure",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. obvious",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. abacus",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. absurd",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"8. The writer's book depicts post-______ Tokyo, where familiar streets lie deserted.",
+                "choice":[
+                    {
+                        "content":"A. appreciated",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. apologize",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. apocalyptic",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. apology",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. More discoveries were made as the ______ proceeded. ",
+                "choice":[
+                    {
+                        "content":"A. exercise",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. excavation",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. executive",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. examination",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. We pay ______ to the genius of Shakespeare.",
+                "choice":[
+                    {
+                        "content":"A. homage",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. hostage",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. hostile",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hostility",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Most animals let their young ______ for themselves from an early age.",
+                "choice":[
+                    {
+                        "content":"A. fend",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. defend",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. drab",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. dribble",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. You must ______ the movements of your arms and legs when swimming.",
+                "choice":[
+                    {
+                        "content":"A. ordinate",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. coordinate",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. recommend",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. command ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. We should take ______ from the encouraging stories.",
+                "choice":[
+                    {
+                        "content":"A. heart",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. brain",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. memory",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. breath ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. This work is physically exhausting and emotionally ______.",
+                "choice":[
+                    {
+                        "content":"A. raining",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. staggering",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. training",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. draining ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. Her children had the best, most ______ birthday parties in the neighborhood.",
+                "choice":[
+                    {
+                        "content":"A. celebrate",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. ceremony",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. elaborate",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. celebrity ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. It exposes the ______ of short-term industrial gain at long-term environmental expense.",
+                "choice":[
+                    {
+                        "content":"A. facility",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. fallacy",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. faculty",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. facade  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. He said that developed countries had a responsibility to ______ global economic growth to help new democracies. ",
+                "choice":[
+                    {
+                        "content":"A. forecast",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. foresee",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. foster",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. foretell  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. He reaffirmed his ______ to the country's economic reform program.",
+                "choice":[
+                    {
+                        "content":"A. excitement",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. commitment",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. contribution",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. distribution ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. Work on the positive, creating beautiful, loving and ______ relationships. ",
+                "choice":[
+                    {
+                        "content":"A. fulfilling",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. furnishing",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. hostage",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. hostility",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. ______ using medicine might be avoided by early diagnosis.",
+                "choice":[
+                    {
+                        "content":"A. Discriminately",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Criminally",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Superficially",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Indiscriminately",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. Scientists have known how to ______ the limitless power of the sun.",
+                "choice":[
+                    {
+                        "content":"A. hard",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. hardness",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. harness",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. hardly",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. In the character the polarities of life are resolved and balanced: male and female, strength and ______, severity and mercy.",
+                "choice":[
+                    {
+                        "content":"A. company",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. compassion",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. competition",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. complaint  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. Economic ______ depends critically on an open world trading system.",
+                "choice":[
+                    {
+                        "content":"A. prosperity",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. property",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. prosperous",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. prospective ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Caffeine is the active ______ of drinks such as tea and coffee.",
+                "choice":[
+                    {
+                        "content":"A. constitution",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. constitutive",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. constitutional",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. constituent ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. Conflict resolution is an alternative ______ and a practical way to nonviolence.",
+                "choice":[
+                    {
+                        "content":"A. parable",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. paradigm",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. parameter",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. paramedic ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. The essential quality that dictates the choice of this ______ system is readiness.",
+                "choice":[
+                    {
+                        "content":"A. propulsion",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. proportion",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. proposition",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. composition  ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. This is by no means an exhaustive list but it gives an ______ of the many projects taking place. ",
+                "choice":[
+                    {
+                        "content":"A. independence",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. indication",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. incrimination",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. innovation",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. It's just not ______ to manage the business on a part-time basis.",
+                "choice":[
+                    {
+                        "content":"A. feather",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. feature",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. favorable",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. feasible",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"9. The program aims to ______ links between higher education and small businesses. ",
+                "choice":[
+                    {
+                        "content":"A. image",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. superb",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. forge",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. forego ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. Young Americans already face a ______ labor market that cannot instill confidence about having children.",
+                "choice":[
+                    {
+                        "content":"A. bare",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. barren",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. bleak",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. inhospitable",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. Overcrowding and poor ______ conditions led to disease in the refugee camps.",
+                "choice":[
+                    {
+                        "content":"A. sainthood",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. saints",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. sanitary",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. saintly",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. The Secretary of State and his Russian ______ met to try to nail down the elusive accord.",
+                "choice":[
+                    {
+                        "content":"A. commanding",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. commander",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. command",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. counterpart ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. We must ensure our children against ______ by bad ideas.",
+                "choice":[
+                    {
+                        "content":"A. contaminator",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. contamination",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. contemplation",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. contemplator ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. ______ in a beverage tends to slow the absorption of alcohol into the bloodstream.",
+                "choice":[
+                    {
+                        "content":"A. Carbonation",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Cabinet",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Campaign",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Combination ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Swimming is helpful for bones that are ______ and weak.",
+                "choice":[
+                    {
+                        "content":"A. pretension",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. pretentious",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. prosperous",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. porous ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. Legislation to that effect created fierce ______ both in Parliament and outside.",
+                "choice":[
+                    {
+                        "content":"A. controversy",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. authentic",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. contradiction",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. automatic ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. The recession is largely blamed for the disappointing response to the ______ for reform. ",
+                "choice":[
+                    {
+                        "content":"A. appear",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. appropriate",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. appeal",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. appraisal",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. Three levels of treatment are employed in ______ treatment plants. ",
+                "choice":[
+                    {
+                        "content":"A. magical",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. municipal",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. principal",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. principle ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. A government's ______ and expenditure should be balanced. ",
+                "choice":[
+                    {
+                        "content":"A. refugee",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. hospitality",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. hostage",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. revenue",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"10. With open frontiers and ______ visa controls, criminals could cross into the country without restraint.",
+                "choice":[
+                    {
+                        "content":"A. lax",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. fax",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. fix",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. flat-out",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1.He wondered uneasily what it meant, and began to feel vaguely ______.",
+                "choice":[
+                    {
+                        "content":"A. apprehensive",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. comprehensive",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. compensation",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. appreciation",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. His speech was difficult to understand, his ______ shaky and unrecognizable.",
+                "choice":[
+                    {
+                        "content":"A. advantage",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. adventure",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. signature",
+                        "correct":true
+                    },
+                    {
+                        "content":"D manutacture",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. The pepper in the food made me ______.",
+                "choice":[
+                    {
+                        "content":"A. sympathize",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. sneeze",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. criticize",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. apologize",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4.They immediately got in touch with Dr Ting who was, purely ______, also in California.",
+                "choice":[
+                    {
+                        "content":"A. incidental",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. coincident",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. coincidental",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. coincidentally",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. All prices are based ______ of USD, so there always must be a USD price.",
+                "choice":[
+                    {
+                        "content":"A. off",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. on",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. at",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. in",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. Childhood had less freedom and joy than we sentimentally ______ to it.",
+                "choice":[
+                    {
+                        "content":"A. authority",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. authentic",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. attribute",
+                        "correct":true
+                    },
+                    {
+                        "content":"D contribute",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7. We ______ an equal society, free of poverty and disease.",
+                "choice":[
+                    {
+                        "content":"A. vision",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. envision",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. visualize",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. reinforce",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. The two men chatted about such ______ as their favorite kinds of fast food.",
+                "choice":[
+                    {
+                        "content":"A. trivia",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. magical",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. trivial",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. bizarre",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9. This theory was ______ received with great scepticism by her fellow scientists.",
+                "choice":[
+                    {
+                        "content":"A. hospitality",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. immediately",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. initially",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. immaculately",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10. The ads helped Nike to ______ achieve",
+                "choice":[
+                    {
+                        "content":"A. icon",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. iron",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. ironic",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. iconic",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    }
+]

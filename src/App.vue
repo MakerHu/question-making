@@ -1,10 +1,9 @@
 <script setup>
-import TheWelcome from './views/QuestionList.vue'
+import QuestionList from './views/QuestionList.vue'
 import { ref, reactive, onMounted } from 'vue'
-import { Edit } from '@element-plus/icons-vue'
 import axios from 'axios'
 
-import questions from './assets/data/questions.json' 
+import questions from './assets/data/questions2.json' 
 import demo from './assets/data/demo.json' 
 
 const tabPosition = ref('')
@@ -62,9 +61,6 @@ onMounted(() => {
 </script>
 
 <template>
-  <div style="text-align: right;">
-    <el-button circle :icon="Edit" @click="dialogVisible = true" style="margin-right:5px"></el-button>
-  </div>
   
   <header>
     <div>
@@ -82,7 +78,7 @@ onMounted(() => {
     </div>
     
     <div v-if="flag" v-for="item in data.questionsData">
-      <TheWelcome v-if="item.id == tabPosition" :dataParam="item.questions" />
+      <QuestionList v-if="item.id == tabPosition" :dataParam="item.questions" @showDialog="(v)=> dialogVisible = v" />
     </div>
     
   </main>
@@ -97,7 +93,7 @@ onMounted(() => {
     width="350px"
   >
     <el-input v-model="jsonUrl" placeholder="Json文件链接" />
-    <span>Json格式参考</span>
+    <div style="margin:10px 0 5px 0">Json格式参考</div>
     <el-input
       v-model="demoJson"
       type="textarea"

@@ -1,6 +1,9 @@
 <script setup>
-import { ref, reactive,watch } from 'vue'
-import { Refresh, Hide, View } from '@element-plus/icons-vue'
+import { ref, reactive,watch,onMounted,onUnmounted } from 'vue'
+import { Refresh, Hide, View, Edit } from '@element-plus/icons-vue'
+
+const emit = defineEmits(['showDialog'])
+const btnFlag = ref(true)
 
 const props = defineProps({
   dataParam: {
@@ -55,12 +58,34 @@ function shuffleSelf(array, size) {
     return array;
 }
 
+const handleScroll = () => {
+  if (document.documentElement.scrollTop > 200) {
+    btnFlag.value = false
+  } else {
+    btnFlag.value = true
+  }
+  //往下滑超过20则显示 否则则不显示按钮
+}
+
+onMounted(() => {
+  window.addEventListener('scroll', handleScroll)
+})//监听滚动事件
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', handleScroll)
+})//离开页面时移除监听事件
+
 </script>
 
 <template>
   <el-affix :offset="10" style="text-align: right;">
-    <el-button circle :icon="Refresh" @click="onRestart()"></el-button>
-    <el-button circle :icon="isOpenEyes? View:Hide" @click="openEyes()" style="margin: 0 5px 0 5px;"></el-button>
+    <Transition name="el-zoom-in-top">
+      <el-button v-show="btnFlag" circle :icon="Edit" @click="$emit('showDialog', true)" style="margin: 0 5px 0 0;"></el-button>
+    </Transition>
+    <Transition name="el-zoom-in-top">
+      <el-button v-show="btnFlag" circle :icon="Refresh" @click="onRestart()" style="margin: 0 5px 0 0;"></el-button>
+    </Transition>
+    <el-button circle :icon="isOpenEyes? View:Hide" @click="openEyes()" style="margin: 0 5px 0 0;"></el-button>
   </el-affix>
   
   <el-card class="box-card" v-for="item,index in data1">
