@@ -1,7 +1,8 @@
 [
     {
         "id":"tag1",
-        "name":"标签1",
+        "name":"选择题",
+        "type":"select",
         "questions":[
             {
                 "question":"这里填问题的描述",
@@ -27,8 +28,14 @@
         ]
     },
     {
-        "id":"tag2",
-        "name":"标签2",
-        "questions":[]
+        "id": "tag6",
+        "name": "翻译题",
+        "type": "qanda",
+        "questions": [
+            {
+                "question":"hello world hello world",
+                "answer":"你好世界你好世界"
+            }
+        ]
     }
 ]

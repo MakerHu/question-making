@@ -4,6 +4,7 @@ import { Refresh, Hide, View, Edit } from '@element-plus/icons-vue'
 
 const emit = defineEmits(['showDialog'])
 const btnFlag = ref(true)
+const isOpenEyes = ref(false)
 
 const props = defineProps({
   dataParam: {
@@ -22,6 +23,7 @@ function onSelect(selectItem) {
   selectItem.selected = !selectItem.selected
 }
 function onRestart() {
+  isOpenEyes.value = false
   data1 = reactive(shuffleSelf(data1))
   data1.forEach(element => {
     element.choice = reactive(shuffleSelf(element.choice))
@@ -30,7 +32,6 @@ function onRestart() {
     })
   });
 }
-const isOpenEyes = ref(false)
 function openEyes() {
   isOpenEyes.value = !isOpenEyes.value
   data1.forEach(element => {
@@ -103,7 +104,7 @@ onUnmounted(() => {
   <el-empty v-if="data1.length == 0" description="暂无数据" />
 </template>
 
-<style>
+<style scoped>
 .box-card {
   margin-top: 10px;
 }

@@ -1,5 +1,6 @@
 <script setup>
 import QuestionList from './views/QuestionList.vue'
+import QandAList from './views/QandAList.vue'
 import { ref, reactive, onMounted } from 'vue'
 import axios from 'axios'
 
@@ -78,7 +79,8 @@ onMounted(() => {
     </div>
     
     <div v-if="flag" v-for="item in data.questionsData">
-      <QuestionList v-if="item.id == tabPosition" :dataParam="item.questions" @showDialog="(v)=> dialogVisible = v" />
+      <QuestionList v-if="item.id == tabPosition && item.type == 'select'" :dataParam="item.questions" @showDialog="(v)=> dialogVisible = v" />
+      <QandAList v-if="item.id == tabPosition && item.type == 'qanda'" :dataParam="item.questions" @showDialog="(v)=> dialogVisible = v" />
     </div>
     
   </main>

@@ -1,7 +1,8 @@
 [
     {
         "id": "tag1",
-        "name": "阅读Task1",
+        "name": "阅1",
+        "type": "select",
         "questions": [
             {
                 "question":"1. According to the author, knowing some science behind traffic can ______.",
@@ -1687,7 +1688,8 @@
     },
     {
         "id": "tag2",
-        "name": "阅读Task2",
+        "name": "阅2",
+        "type": "select",
         "questions": [
             {
                 "question":"1. There is no reason why a gifted aircraft designer should also be a capable pilot. In the same way, a brilliant pilot can be a menace ______ the wheel of a car.",
@@ -3368,6 +3370,1994 @@
                         "correct":true
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": "tag3",
+        "name": "听判",
+        "type": "select",
+        "questions": [
+            {
+                "question":"U8 1. The steam enthusiasts have been waiting for the Flying Scotsman returning to tracks. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U8 2. The old train, Flying Scotsman, is in its classic dark grey. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U8 3. The Flying Scotsman made its name on the East Coast Main Line.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U8 4. Passengers have paid up to £450 for a champagne breakfast in the vintage carriages of the train.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U8 5. The historic engine won't be setting any speed records today: safety rules mean it's restricted to 45 miles an hour.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U8 6. The train will have a regular roundabout journey between York and the National Railway Museum around midday.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U9 1. The researchers sequenced the genome of tens of thousands of cancers.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U9 2. They calculate that a 20 a day smoker will accumulate an average of 150 mutations every year in each lung cell- 97 in the mouth and 23 in the larynx.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U9 3. These changes are permanent, and each one represents a chance of triggering cancer.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U9 4. Even in tissues directly exposed to smoke, there are DNA mutations- 18 per year in the bladder and six in the liver.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U9 5. The joint lead author Prof Sir Mike Stratton, of the Welcome Trust Sanger Institute, said DNA analysis would help explain the mechanisms triggering other cancers.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U9 6. The mutational signatures are the archaeological traces of the past exposures.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U9 7. The DNA of those cancers provides clues to the responsible agents, and that will lead potentially to cancer prevention.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U9 8. One clear message from this research is that the quicker and younger smokers quit, the faster DNA mutations they will be harboring.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U10 1. Flights coming from the US to Europe normally benefit from the powerful winds from the jet stream, which can boost speeds by up to 300 km/h.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U10 2. But this new study says the disadvantage will be undermined by rising emissions of CO2.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U10 3. Climate change could increase the jet stream wind by 50 per cent.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U10 4. Flights from New York would speed up. But journeys from London would be thrice as likely to take over seven hours.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U10 5. The overall result is that round trips would get significantly longer with planes spending an extra 2,000 hours in the air in one year. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U10 6. The extra hours in the air would cost around $22 million every year.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U10 7. The study not only looked at flights between Europe and the US.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U10 8. The authors believe that similar impact is likely to be seen in the southern hemisphere as well.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U10 9. And with warming expected to decrease turbulence, flying to the US could be longer, bumpier and more expensive.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U10 10. Airlines seek to recoup their costs though higher ticket prices.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 1. The Chinese government attaches great importance to the development in railway sector. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 2. By the end of 2014, total mileage of Chinese railway had reached 110,000 km.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 3. By the end of 2014, total mileage of Chinese railway had reached 112,000 km.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 4. In 2014, China Railway completed a passenger traffic of 3.81 billion and a freight traffic of 2.32 billion tons, ranking the first in the world.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 5. Since 1996, China started technical research and engineering practice on high speed railway. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 6. In 2004, the Chinese government launched the Mid-and Long-term Railway Network Program, opening a new chapter for the development of China railways. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 7. China has built a large number of high speed railways that suit various special climatic environments and complex geological conditions and meet different transport needs. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 8. In August 2008, the first high speed railway in China, Beijing-Tianjin intercity railway running at 315 km/h and crossing soft and loose soil area opened to traffic. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 9. In December, 2010, the Hainan east ring high speed railway built in tropical coast area and by far at the northernmost end compared with the location of all the other high speed railways in the world was opened to traffic. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 10. In July, 2011, the Beijing-Shanghai high speed railway came into service, which even created a speed record of 486 km/h in running test. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 11. In November 2012, the Harbin-Dalian high speed railway-the first high speed railway in the world crossing extremely cold permafrost area opened to traffic.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 12. In December 2012, the 2,298 km Beijing-Guangzhou high speed railway-the longest high speed railway in the world crossing temperate and subtropical zone and many rivers opened to traffic.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 13. In December 2014, the 1,777km Lanzhou-Urumqi high speed railway- the longest high speed railway built in one-phase project and crossing desert and strong wind zone came into service.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 14. By July 2015, the high speed railways in service exceeded 70,000 km. China became the country with the longest railway length in service and the largest scale of railway under construction.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 15. It is expected that by the end of 2015, China's total length of high speed railways in service will reach 90,000 km.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 16. An express passenger railway network jointly formed by high speed and conventional railways can largely cover all cities with a population of over 50,000.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U11 17. China has established a complete technological system for high speed railway.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 18. The survey and design, equipment development, construction, traffic control, and operation management have reached a leading level in the world.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 19. China has the experience in building ballastless track and CWR track, adaptive to various geological conditions, highway and railway stayed bridge with the longest span in the world, the first railway bridge with up to six tracks in the world.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U11 20. China has built long tunnels crossing metropolitan areas and long rivers, a number of transport hubs integrating bus, metro, light rail and airport with easy transfer.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U12 1. We have swallowed bucket loads of \"antioxidant-rich products\" in a belief that the antioxidants they contain could improve our health and turn back the aging clock.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U12 2. Researchers now say the antioxidant myth could be a medical miracle.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U12 3. Large doses of antioxidant supplements could be solutions to the very problems they are supposed to stamp out.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U12 4. Antioxidants have long since acquired a reputation as miracle health supplements.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U12 5. Scientists have discovered that many diseases-including heart diseases, strokes and cancer- are linked to free radicals, destructive chemicals that can destroy cell membranes and disrupt crucial processes in the body.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U12 6. In the early 1990s, scientists noticed that people who eat foods rich in antioxidants, often found in fruits and vegetables, have higher rates of cancer and heart disease.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U12 7. A hypothesis was thus born: antioxidants, including Vitamins C and E, beta-carotene and polyphenols, are a weapon against cancer and heart disease.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U12 8. Manufacturers have since emblazoned \"antioxidants\" on everything. Last year alone, hundreds of products with antioxidant claims were launched, said Carlotta Mast, editor-in-chief of Newhope360.com, one major manufacturer in natural, organic and healthy products.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U12 9. Advertisement campaigns aside, athletes have been     driving the \"antioxidant\" bandwagon.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U12 10. But experts warn that supplementing with antioxidants may blunt the beneficial effects of working out. The timeworn advice is \"to fight oxidative stress, exercise, and eat your fruits and vegetables.\"",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U13 1. Black holes are supposedly black because their immense gravity prevents light escaping their grasp. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U13 2. All true, but the edge of the a black hole ought to shine very brightly, as it tears apart any stars, gas and dust lucky enough to get too close.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U13 3. Our Milky Way galaxy central black hole is about four million times the mass of the Moon. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U13 4. But its precipitous edge is a lot wider. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U13 5. Given that the hole is thousands of light years away, you need a really special telescope to see it.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U13 6. And now it exists. The Event Horizon Telescope is a network of widely spaced radio antennas whose data when combined, mimics the resolving power of a single telescope the size of the Earth. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U13 7. Its first big test is in April. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U13 8. If Einstein were right, it should see a bright ring of light circling a dark shadow.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U13 9. This will be a quick snap, colossal volumes of data will be acquired in the April's observing run. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U13 10. It's likely to take super computers many months to assemble an image.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U14 1. For petrol and diesel cars and vans, the end is coming.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U14 2. France has committed to phasing out sales of them in 2014. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U14 3. The UK now officially matches that ambition.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U14 4. In the meantime, the government must deal with legal levels of air pollution mainly from diesel vehicles. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U14 5. In April, it was ordered by the High Court to present by 30 July first a strategy for cleaning up the UK's polluted air. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U14 6. That would include tackling emissions of all types of pollution. ",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U14 7. Ministers have defied the court, though, by producing only a plan for roadside emissions of the pollutant nitrogen dioxide associated with diesels.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U15 1. Action for Children questioned 200 parents and found that almost a quarter struggled to restrict their children's screen time",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U15 2. In comparison, only about a fifth said they found it difficult to persuade children to eat healthily or go to bed on time.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U15 3. Homework was a problem for only nine in ten parchl.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U15 4. Recent research from Cambridge University found that long periods in front of a screen determined children's performance in exams.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":false
+                    },			{
+                        "content":"F",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"U15 5. An extra hour every day of screen time at the age of 14, correlated with a lower score at GCSE at the age of 16, equivalent to two grades.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"U15 6. Action for Children said unplugging youngsters from electronic devices was also important to build strong relationships with parents which made children better able to communicate with adults and less susceptible to bullying or abuse outside the home.",
+                "choice":[
+                    {
+                        "content":"T",
+                        "correct":true
+                    },			{
+                        "content":"F",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tag4",
+        "name": "听选",
+        "type": "select",
+        "questions": [
+            {
+                "question":"1. What is the main topic of the lecture? ",
+                "choice":[
+                    {
+                        "content":"A. How the first pedestrian mall was developed. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. How pedestrian malls have affected business in America. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Key considerations in creating a pedestrian mall. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Ways that cities can better use pedestrian malls. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. According to the professor, what is the basic reason for building pedestrian malls in the city center? ",
+                "choice":[
+                    {
+                        "content":"A. To increase retail activity in the area.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To reduce the noise made by automobile traffic. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To increase shopping conveniences for city residents. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To encourage people to move from the suburbs back into the city center. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. What are two aspects of location that need to be considered when planning a pedestrian mall? Click on 2 answers ",
+                "choice":[
+                    {
+                        "content":"A. The proximity to the customer base. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. The number of nearby tourist sites. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The variety of restaurants in the area. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The access to public transportation. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. Why does the professor explain the design of a pedestrian mall? ",
+                "choice":[
+                    {
+                        "content":"A. To illustrate its importance to the success of a pedestrian mall. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To explain why pedestrian malls are so appealing to the shoppers. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To point out how a pedestrian mall looks different from other malls. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To show how the design is more important than the location. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Why does the professor mention the Louisville, Kentucky pedestrian mall? ",
+                "choice":[
+                    {
+                        "content":"A. To discuss her favorite pedestrian mall to visit. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To illustrate how a pedestrian mall can overcome financial difficulties. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To give an example of a typical, American pedestrian mall. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To show how poor planning can affect the success of a pedestrian mall. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. What does the professor mean when she says this? ",
+                "choice":[
+                    {
+                        "content":"A. Art is of little importance in designing a pedestrian mall. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. There should be a wide variety of art on display in pedestrian malls. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Art is a key feature in the designing of a pedestrian mall. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Most pedestrian mall designers do not like art as much as she does.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the lecture mainly about?",
+                "choice":[
+                    {
+                        "content":"A. How animals emit ultrasonic pulses.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. How bats use acoustical signals.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. A comparison of echolocation and radar.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Variations among bats in the use of ultrasound.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why does the professor decide NOT to add more information to the diagram on the board?",
+                "choice":[
+                    {
+                        "content":"A. She wants students to complete the diagram themselves as an assignment.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. She needs to look up some information in order to complete the diagram accurately.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The additional information is not relevant to the topic that she wants to discuss next.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Students already have the additional information in their textbook",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. According to the professor, what are two ways in which a moth might react when it detects the presence of a bat? Click on 2 answers.",
+                "choice":[
+                    {
+                        "content":"A. The moth might stop beating its wings.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. The moth might emit high-frequency sounds.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The moth might leave the area.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. The moth might change its color to match its surroundings.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. What surprising information did a recent experiment reveal about laser-spear-nosed bats?",
+                "choice":[
+                    {
+                        "content":"A. They filter out echoes from some types of trees.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They can analyze echoes from stationary objects with complex surfaces.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. They cannot analyze \"jagged\" echoes.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They cannot analyze echoes from certain types of small moving objects.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. According to the professor, why does a pine tree produce a \"smooth\" echo?",
+                "choice":[
+                    {
+                        "content":"A. Because it has a smooth trunk.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Because it has large branches spaced at regular intervals.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Because it has many small, densely packed needles.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Because it remains stationary in all types of weather.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. Why does the professor say this?",
+                "choice":[
+                    {
+                        "content":"A. To answer a question that Carol asked.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To correct a statement that Carol made.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To praise Carol for an example that she gave.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To give an example of a principle that Carol stated.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the lecture mainly about?",
+                "choice":[
+                    {
+                        "content":"A. An example of rapid climate change.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. A comparison of two mechanisms of climate change.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The weather conditions in the present-day Sahara.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Recent geological findings made in the Sahara.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Not long ago, the Sahara had a different climate. What evidence does the professor mention to support this? Click on 3 answers.",
+                "choice":[
+                    {
+                        "content":"A. Ancient pollen.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Bones from large animals.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Rock paintings.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Agriculture in ancient Egypt.",
+                        "correct":false
+                    },
+                    {
+                        "content":"E. Underground water.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. In the lecture, what do the Ice Age and the creation of the Sahara Desert both illustrate about past climate changes? Click on 2 answers.",
+                "choice":[
+                    {
+                        "content":"A. That some climate changes benefited the development of civilization.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. That some climate changes were not caused by human activity.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. That some climate changes were caused by a decrease of moisture in the atmosphere.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. That some climate changes were caused by changes in Earth's motion and position.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. What started the runway effect that led to the Sahara area of North Africa becoming a desert?",
+                "choice":[
+                    {
+                        "content":"A. The prevailing winds became stronger.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The seasonal rains moved to a different area.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The vegetation started to die off in large areas.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The soil lost its ability to retain rainwater.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. The professor mentions a theory that people migrating from the Sahara were important to the development of the Egyptian civilization. Which sentence best describes the professor's attitude toward this theory?",
+                "choice":[
+                    {
+                        "content":"A. It is exciting because it perfectly explains recent archaeological discoveries.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. It is problematic because it goes too far beyond the generally available data.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. It raises an interesting possibility and he hopes to see more evidence for it.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. It cannot be taken seriously until it explains how the migrants got to Egypt.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. Why does the professor say this?",
+                "choice":[
+                    {
+                        "content":"A. To correct a misstatement he made about the Sahara's climate.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To suggest that the current dryness of the Sahara is exaggerated.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To indicate that scientists are not in agreement about the Sahara's past climate.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To emphasize the difference between the current and past climates of the Sahara.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"1. Which aspect of architecture in the United States is the lecture mainly about? ",
+                "choice":[
+                    {
+                        "content":"A. The differences between rural and urban styles of housing ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The reasons for popularity of a particular type of house              ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The various styles of houses that are popular in New England  ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The decorative details that are typical of houses built in New England ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. What is mentioned in the lecture as an application of the principle that \"form follows function\"?",
+                "choice":[
+                    {
+                        "content":"A. Smaller houses should have fewer rooms ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. A house's design should reflect the inhabitants' needs ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The materials for a house should be selected before the house is designed ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Houses in cold, harsh climates should be built with inexpensive materials ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. Why does the woman refer to visiting her grandparents? ",
+                "choice":[
+                    {
+                        "content":"A. To explain why she is interested in residential architecture ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To explain why she knows a lot about the history of Cape Cod ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To explain why she is familiar with Cape Cod houses ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. To explain why she enjoys visiting rural New England ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. According to the lecture, what are two features of Cape Cod houses that were influenced by     climate? Click on 2 answers ",
+                "choice":[
+                    {
+                        "content":"A. The thickness of walls",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The slope of the roofs ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The number of windows",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The simplicity of the exterior",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. According to the professor, what contributed to the attitude of conformity in rural New England communities during the 1600s and 1700s? ",
+                "choice":[
+                    {
+                        "content":"A. People depended on their neighbors for their own survival ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. People living in rural areas often had moved there from cities ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. People had to live very close to their neighbors ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. People had limited access to information from outside their community ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. Why does the professor say this? ",
+                "choice":[
+                    {
+                        "content":"A. To indicate that the student's answer is wrong ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To determine whether the student has prepared for the class ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To point out that housing styles across the United States are very similar ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To ask about students' preferences in architectural styles",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the lecture mainly about? ",
+                "choice":[
+                    {
+                        "content":"A. Differences between modern and ancient calendars. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The importance of astronomy in Egyptian religion. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The timekeeping system of ancient Egypt. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. How to use agriculture as a method of timekeeping? ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why does the professor mention the names of the seasons in ancient Egypt? ",
+                "choice":[
+                    {
+                        "content":"A. To explain the importance of religion.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To emphasize the significance of the Nile River. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. To indicate when different types of crops were harvested. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To describe early discoveries in astronomy. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. Why was the helical rising if Sirius important to the Egyptians? Click on 2 answers. ",
+                "choice":[
+                    {
+                        "content":"A. It helped determine the beginning of the New Year. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. It was used to calculate the length of the month. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. It marked the beginning of harvest time. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. It indicated when the Nile would flood. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"4. Once the Egyptians realized the significance of the heliacal rising of Sirius, what change did   they make to their agricultural calendar? ",
+                "choice":[
+                    {
+                        "content":"A. They made each month exactly 30 days. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They shortened the length of the year. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. They added a religious festival date to celebrate the heliacal rising of Sirius. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They allowed the number of months in the year to vary. ",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"5. What are two points the professor makes about the administrative calendar? Click on 2 answers.",
+                "choice":[
+                    {
+                        "content":"A. It included more religious festivals than did the other calendar. ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. It was used for scheduling tax payments. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. It had the same number of days every year. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. It used the Moon to determine the beginning of the year. ",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. What is the professor explaining when she says this? ",
+                "choice":[
+                    {
+                        "content":"A. The weakness of the Egyptian bureaucracy ",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The Egyptians' motivations for developing a second calendar ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The importance of accurately predicting when the Nile would flood ",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The problems that result from using two calendars",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What does the professor mainly discuss?",
+                "choice":[
+                    {
+                        "content":"A. His plans for research involving moving rocks.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. A difference between two geological forces that cause rocks to move.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Theories about why desert rocks move.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Reasons why geologists should study moving rocks.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. According to the professor, what have the researchers agreed on?",
+                "choice":[
+                    {
+                        "content":"A. The rocks cannot move after ice storms.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The rocks do not move at night.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The rocks never move in circles.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The rocks are not moved by people.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. The professor mentions experiments on the wind speed necessary to move rocks.    What is the professor's attitude toward the experiments?",
+                "choice":[
+                    {
+                        "content":"A. Their results were decisive.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. They were not carried out carefully.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. They were not continued long enough to reach a conclusion.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The government should not have allowed the experiments.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. What important point does the professor make about the area where the rocks are found?",
+                "choice":[
+                    {
+                        "content":"A. It has been the site of Earth's highest wind speeds.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. It is subject to laws that restrict experimentation.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. It is accessible to heavy machinery.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. It is not subject to significant changes in temperature.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. What is the professor's purpose in telling the students about moving rocks?",
+                "choice":[
+                    {
+                        "content":"A. To teach a lesson about the structure of solid matter",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To share a recent advance in geology",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To give an example of how ice can move rocks",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To show how geologists need to combine information from several fields",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"6. What does the professor imply when he says this?",
+                "choice":[
+                    {
+                        "content":"A. The movement pattern of the rocks was misreported by researchers",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The rocks are probably being moved by people",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The movement pattern of the rocks does not support the wind theory",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. There must be differences in the rocks' composition",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. In the beginning of the lecture a student asks a question about the periodic table. How does the story of element 43 answer her question?",
+                "choice":[
+                    {
+                        "content":"A. By providing an example of an element whose place in the periodic table was moved.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. By providing an example of an element whose existence was predictable from the periodic table. ",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. By providing an example of an element which scientists predicted was formed from uranium.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. By providing an example of an element that can only be made artificially.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. What does the professor say about early versions of the periodic table?",
+                "choice":[
+                    {
+                        "content":"A. Early versions listed two names for some elements.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. Early versions had the incorrect atomic number for some elements.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Early versions were not as easy to use as modern version.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Early versions did not list an element for every atomic number.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. What fact inspired researchers to give the name \"technetium\" to element 43?",
+                "choice":[
+                    {
+                        "content":"A. The element was radioactive.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. The element was derived from uranium.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. The element was created artificially.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. The element was found using x-ray spectroscopy.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. What characteristic of element 43 might explain why the scientific community doubted the findings of Ida Tack's team?",
+                "choice":[
+                    {
+                        "content":"A. Element 43 has a very fast rate of decay.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. Element 43 always contains small amount of other elements.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Element 43 cannot be created artificially.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. Element 43's radioactivity makes it easy to isolate and measure.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. What does the professor believe about the claim that Ida Tack's team made about element 43?",
+                "choice":[
+                    {
+                        "content":"A. Scientists should have accepted the claim when it was first published.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. There is not enough evidence to know if the team actually discovered element 43.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The team's unusual scientific methods were unreliable.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. If the team's ore sample had contained element 43, the team would have been able to isolate a weighable amount.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. What does the professor imply about the chemist Ida Tack when he says this?",
+                "choice":[
+                    {
+                        "content":"A. She did not realize that the periodic table predicted the radioactivity of element 43.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. She did not understand why her team's findings were dismissed by the scientific community.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. Her theory about uranium would have explained the presence of element 43 in her team's ore sample.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. Her theory about uranium would have explained the errors that created element 43 in a cyclotron.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"1. What is the main purpose of the lecture?",
+                "choice":[
+                    {
+                        "content":"A. To discuss the style of an early filmmaker.",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. To describe different types of filmmaking in the 1930s.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To discuss the emergence of the documentary film.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To describe Painleve's influence on todav's science-fiction films.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. Why are Painleve's films typical of the films of the 1920s and 1930s?",
+                "choice":[
+                    {
+                        "content":"A. They do not have sound.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They are filmed underwater.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. They are easy to understand.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. They are difficult to categorize.",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"3. According to the professor, how did Painleve's film contuse the audience?",
+                "choice":[
+                    {
+                        "content":"A. They show animals out of their natural habitat",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. They depict animals as having both human and animal characteristics.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. The narration is scientific and difficult to understand.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. The audiences of the 1920s and 1930s were not used to films shot underwater.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. Why does the professor mention sea horses?",
+                "choice":[
+                    {
+                        "content":"A. To explain that they were difficult to film in the 1930s.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To point out that Cousteau made documentaries about them.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. To illustrate Pianleve's fascination with unusual animals.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. To explain why Painleve's underwater films were not successful.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. Why does the professor compare the film style of Jacques Cousteau and Jean Painleve?",
+                "choice":[
+                    {
+                        "content":"A. To explain how Painleve influenced Cousteau.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. To emphasize the uniqueness of Painleve's filming style.",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. To emphasize the artistic value of Cousteau's documentary films.",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. To demonstrate the superiority of Painleve's filmmaking equipment.",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. What does the student imply when he says this?",
+                "choice":[
+                    {
+                        "content":"A. He does not like Jean Painleve's films.",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. He thinks that the professor should spend more time discussing Jacques Cousteau's film.",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. He believes that high quality filmmakers are usually well known.",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. He believes that Jean Painleve's films have been unfairly overlooked.",
+                        "correct":false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tag5",
+        "name": "翻译",
+        "type": "qanda",
+        "questions": [
+            {
+                "question":"There’s a lot of interesting science behind traffic, though, and while understanding it might not make sitting in it any better, it can teach you how to avoid some of the mistakes we all make behind the wheel. (para. 1)",
+                "answer":"交通背后也有很多有趣的知识。虽然知道这些可能不会使情况有所好转，但却能教会你如何避免开车时所犯的种种错误。"
+            },
+            {
+                "question":"If you do that, traffic will fall into a more natural pattern called a “zipper merge”,    meaning there are no surprises, no sudden braking, and a smoother transition from one lane to another, which cuts down on backups. (para. 3)",
+                "answer":"这样一来，交通就会呈现出一种更加自然、称为“拉链式并道”的模式，也就是说，不会吓人一跳，没有突然刹车，而是平稳地从一车道并入另一车道，这样就会减少拥堵"
+            },
+            {
+                "question":"On even moderately busy roads, it can take only a few minutes for traffic to grind to a complete halt behind someone who tapped their brakes to let another driver merge. (para. 5)",
+                "answer":"即使在交通不是很拥挤的路面上，一旦有人刹车让其他司机并道，几分钟之内，交通就会彻底堵住"
+            },
+            {
+                "question":"Instances of veering into another lane, misjudging distances between vehicles, and   making dangerous decisions all increase when there are billboards present. (para. 10)",
+                "answer":"当路上有广告牌时，人们变换车道、错误判断车距以及做出危险决定的例子屡见不鲜。"
+            },
+            {
+                "question":"The sight of a new lane being added to a perpetually congested highway usually   evokes two emotions: annoyance at the current delay and hope that traffic will decrease after the road is finished. (para. 12)",
+                "answer":"在一直都拥堵的公路上修建新车道，人们对此通常会产生两种情感：一是反感目前的交通堵塞，二是希望道路修好后，交通能有所缓解"
+            }
+        ]
+    },
+    {
+        "id": "tag6",
+        "name": "热词",
+        "type": "qanda",
+        "questions": [
+            {
+                "question":"hello world hello world hello world hello world hello world hello world hello world hello world hello world",
+                "answer":"你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界"
             }
         ]
     }
