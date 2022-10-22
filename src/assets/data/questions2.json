@@ -5329,24 +5329,212 @@
         "type": "qanda",
         "questions": [
             {
-                "question":"There’s a lot of interesting science behind traffic, though, and while understanding it might not make sitting in it any better, it can teach you how to avoid some of the mistakes we all make behind the wheel. (para. 1)",
+                "question":"1. There’s a lot of interesting science behind traffic, though, and while understanding it might not make sitting in it any better, it can teach you how to avoid some of the mistakes we all make behind the wheel. (para. 1)",
                 "answer":"交通背后也有很多有趣的知识。虽然知道这些可能不会使情况有所好转，但却能教会你如何避免开车时所犯的种种错误。"
             },
             {
-                "question":"If you do that, traffic will fall into a more natural pattern called a “zipper merge”,    meaning there are no surprises, no sudden braking, and a smoother transition from one lane to another, which cuts down on backups. (para. 3)",
-                "answer":"这样一来，交通就会呈现出一种更加自然、称为“拉链式并道”的模式，也就是说，不会吓人一跳，没有突然刹车，而是平稳地从一车道并入另一车道，这样就会减少拥堵"
+                "question":"2. If you do that, traffic will fall into a more natural pattern called a “zipper merge”,    meaning there are no surprises, no sudden braking, and a smoother transition from one lane to another, which cuts down on backups. (para. 3)",
+                "answer":"这样一来，交通就会呈现出一种更加自然、称为“拉链式并道”的模式，也就是说，不会吓人一跳，没有突然刹车，而是平稳地从一车道并入另一车道，这样就会减少拥堵。"
             },
             {
-                "question":"On even moderately busy roads, it can take only a few minutes for traffic to grind to a complete halt behind someone who tapped their brakes to let another driver merge. (para. 5)",
-                "answer":"即使在交通不是很拥挤的路面上，一旦有人刹车让其他司机并道，几分钟之内，交通就会彻底堵住"
+                "question":"3. On even moderately busy roads, it can take only a few minutes for traffic to grind to a complete halt behind someone who tapped their brakes to let another driver merge. (para. 5)",
+                "answer":"即使在交通不是很拥挤的路面上，一旦有人刹车让其他司机并道，几分钟之内，交通就会彻底堵住。"
             },
             {
-                "question":"Instances of veering into another lane, misjudging distances between vehicles, and   making dangerous decisions all increase when there are billboards present. (para. 10)",
+                "question":"4. Instances of veering into another lane, misjudging distances between vehicles, and   making dangerous decisions all increase when there are billboards present. (para. 10)",
                 "answer":"当路上有广告牌时，人们变换车道、错误判断车距以及做出危险决定的例子屡见不鲜。"
             },
             {
-                "question":"The sight of a new lane being added to a perpetually congested highway usually   evokes two emotions: annoyance at the current delay and hope that traffic will decrease after the road is finished. (para. 12)",
-                "answer":"在一直都拥堵的公路上修建新车道，人们对此通常会产生两种情感：一是反感目前的交通堵塞，二是希望道路修好后，交通能有所缓解"
+                "question":"5. The sight of a new lane being added to a perpetually congested highway usually   evokes two emotions: annoyance at the current delay and hope that traffic will decrease after the road is finished. (para. 12)",
+                "answer":"在一直都拥堵的公路上修建新车道，人们对此通常会产生两种情感：一是反感目前的交通堵塞，二是希望道路修好后，交通能有所缓解。"
+            },
+            {
+                "question":"1. The idea is so audacious and so far outside the mainstream of neuroscience that many of his colleagues, says Berger, think of him as being just this side of crazy. (para. 2)",
+                "answer":"伯杰说，这个想法非常大胆而且与神经科学的主流相去甚远，以至于他的很多同事觉得他十分疯狂。"
+            },
+            {
+                "question":"2. If a memory implant sounds farfetched, Berger points to other recent successes in neuroprosthetics. (para. 4)",
+                "answer":"如果说植入记忆听起来不可思议，伯杰提及其他近期在神经修复学上的成功案例。"
+            },
+            {
+                "question":"3. What has been anything but clear is how the hippocampus accomplishes this complicated feat. (para. 6)",
+                "answer":"还不清楚的是海马区是如何完成这一复杂的功能的。"
+            },
+            {
+                "question":"4. This is the conventional view of memory, but it only scratches the surface. And to Berger's perpetual frustration, many colleagues who probe this mysterious realm of the brain haven't attempted to go much deeper. (para. 8)",
+                "answer":"这是对记忆的常规看法，但它仅仅触及其表面。而一直让伯杰懊恼的是，很多探寻大脑这个神秘领域的同事们并未尝试进一步深入研究。"
+            },
+            {
+                "question":"5. What if these codes are not generalizable, and different inputs are processed in various ways? In other words, it is possible that they haven't cracked the code but have merely deciphered a few simple messages. (para. 11)",
+                "answer":"但是如果这些编码没有概括性怎么办？不同的输入信号是不是会被以不同的方式处理？换句话说，科学家们有可能并没有破解记忆密码，而仅仅是破译了几条简单的信息。"
+            },
+            {
+                "question":"1. In the fight against malaria, Buckee explains, the data transmitted from this tower near the town of Kericho has been epidemiological gold. (para. 1) ",
+                "answer":"在对抗疟疾的战斗中，巴奇解释说，这些从凯里乔镇附近的信号塔传输的信息在流行病学中贵如黄金。"
+            },
+            {
+                "question":"2. The tower’s signal radius thus covered a significant waypoint for transmission of malaria, which can jump from human to human via mosquitoes. (para. 2) ",
+                "answer":"因此信号塔的辐射范围覆盖了一个重要的疟疾传播点，这种病通过蚊子叮咬在人与人之间传播。"
+            },
+            {
+                "question":"3. The exponential adoption of mobile phones in low-income settings—and the new willingness of some carriers to release data—will lead to new technological tools that could change everything. (para. 7) ",
+                "answer":"低收入地区越来越快地接纳手机，以及一些手机持有人新近形成的发布信息的意愿，这将形成能够改变一切的新的技术工具。"
+            },
+            {
+                "question":"4. Throw in the spread of mobile payment technology for simple commerce and you have the raw material for insights not only into epidemiology but into employment trends, social tensions, poverty, transportation, and economic activity. (para. 8)",
+                "answer":"由于有了为简单社交需求而广泛分布的手机支付技术，你能获得原始的材料，这些材料不仅能使你洞察到流行病的发展，而且能让你了解就业趋势、社会压力、贫困状态、交通运输和经济活动。"
+            },
+            {
+                "question":"5. These strains, emerging in Cambodia and elsewhere, could reverse progress against the disease if allowed to proliferate, she warns. (para. 9) ",
+                "answer":"她警告说，这些（抗药寄生虫）品种出现在柬埔寨和其他区域，如果任其繁殖，将会逆转抗病的进展。"
+            },
+            {
+                "question":"1. It was a miraculous feat of Victorian engineering when the first section of the “Metropolitan Railway” opened in Paddington in 1863—using, incredibly, steam locomotives to travel the tunnels. It was an instant hit, carrying around 26,000 passengers a day. (para. 2) ",
+                "answer":"1863年，“大都会铁路”的第一部分在帕丁顿开通，这项工程是维多利亚时代工程史上的奇迹，它不可思议地让蒸汽式机车在地下隧道里运行。这件事引起了极大的轰动，伦敦地下铁每天载着大约两万六千名乘客穿梭往来。"
+            },
+            {
+                "question":"2. Buckley’s talk is a roll call of great entrepreneurial names who made the system happen, but it’s the men who cared about the aesthetic experience of travelling on the Tube whom I find most inspiring. (para. 8) ",
+                "answer":"巴克利提到了很多伟大的企业家，他们都为伦敦地铁的成功建造做出了贡献，但是最具启发意义的还是那些关注地铁旅行的审美体验的人。"
+            },
+            {
+                "question":"3. Pick not only commissioned great architects and artists (such as Jacob Epstein and Henry Moore) to create beautiful stations and artworks for the Tube, he also introduced its famous bulls eye symbol, promoted the use of beautiful artistic poster-advertising that encouraged people to explore their city using the trains and introduced a universal typeface for all of the network’s branding. (para. 13) ",
+                "answer":"匹克不仅任命了著名的建筑师和艺术家（如雅各•爱普斯坦和亨利•摩尔）为伦敦地铁设计美丽的车站和艺术品，而且引入了著名的“靶心”标志，推动使用美丽的艺术化的海报宣传模式，鼓励人们乘坐地铁来发掘这座城市，并应用统一字体作为地铁系统的品牌化标志。"
+            },
+            {
+                "question":"4. In honour of the area’s most famous son, Leytonstone Tube station is covered in a remarkable array of mosaics depicting scenes from Alfred Hitchcock films. They include Psycho, North by Northwest and The Birds. (para. 15) ",
+                "answer":"雷顿斯通地铁站为了纪念该地区最著名的人物（阿尔弗雷德•希区柯克），整个地铁站内覆盖着一系列效果非凡的马赛克，描述的都是希区柯克电影中的场景，其中包括《精神病患者》、《谍影疑云》和《群鸟》。"
+            },
+            {
+                "question":"5. This iconic design—much copied, never bettered—was first approved and printed in 1933 (thank you, Mr. Pick), and was an instant hit. (para. 16) ",
+                "answer":"这个具有标志性的设计—一直被模仿，但从未被超越—于1933年第一次被通过并印刷（还是要多谢匹克先生），并立刻备受关注。"
+            },
+            {
+                "question":"6. Stop and look around you, though, and you’ll be taken aback by how inspiring the Underground is in its scope, ambition and attention to detail. One rarely thinks of it as a romantic place, but what a lot of love has gone into it over the years. (para. 19) ",
+                "answer":"停下脚步，四处瞧瞧，你就会惊讶于伦敦地铁多么富于创意，它包罗万象、雄心勃勃，而又如此精心细致。很少有人会把地铁看作一个浪漫的地方，但是多年以来，多少爱都注入到了这一方天地之中。"
+            },
+            {
+                "question":"1. The stress of organising a big wedding can leave many couples at breaking point, as they battle to coordinate a celebration on a scale which would tax even professional event planners. (para. 1) ",
+                "answer":"筹划一场盛大的婚礼的压力之大，可使众多爱侣变为冤家怨偶。他们为这场盛典竭力协调、博弈，即便是职业婚礼策划人也会备受煎熬。"
+            },
+            {
+                "question":"2. Although cynics may argue that people who can afford an opulent wedding are likely to be financially secure, and therefore happier, the researchers claim that the correlation remains even when controlling for wealth. (para. 2) ",
+                "answer":"虽然有些愤世嫉俗的人会说，那些有能力担负奢华婚礼的夫妻基本经济条件无忧，所以日子自然过得愉悦。不过研究人员认为，即便不考虑经济因素，婚礼与幸福二者的联系依然存在。"
+            },
+            {
+                "question":"3. We try to keep our present attitudes and behaviours in line with our past conduct. The desire for consistency is likely enhanced by public expressions of intention. (para. 4) ",
+                "answer":"我们都有不改本心的愿望，公众的关注会加强这种对一致性的渴望。"
+            },
+            {
+                "question":"4. Couples with larger networks of friends and family may have more help, and encouragement, in navigating the challenges of married life. (para. 6) ",
+                "answer":"拥有较大亲友关系网的夫妻在面对婚姻生活的挑战时，可以得到更多帮助和鼓励，为婚姻保驾护航。"
+            },
+            {
+                "question":"5. Adultery as a cause for divorce has also dropped to an all-time low, accounting for just 14 percent of dissolutions granted to wives in 2012. (para. 9) ",
+                "answer":"因婚外情离婚的也降到历史最低，2012年只有14%的妻子的离婚申请获准通过。"
+            },
+            {
+                "question":"6. All this despite the fact that weddings (and marriages in general, honestly) can be a fairly impractical thing to invest in. (para. 12) ",
+                "answer":"尽管婚礼（说实话，总体来说婚姻也一样）可能是一种相当不切实际的投入，上述情况还是存在的。"
+            },
+            {
+                "question":"7. So rather than buying into the Marriage Industrial Complex on a union that may or may not work out, wouldn’t it make more sense to save your hard-earned money by forgoing the big ceremony for the major expenses you’re likely to face in married life? You know, like a mortgage. Or braces for your wallet-draining children-to-be. And if your fianceé is dead set on a fairytale wedding? You could always just blow your financial load on a plenty fulfilling single life.  (para. 13) ",
+                "answer":"因此，与其把一大笔钱花在一段前途未卜的婚姻上，还不如省下来之不易的钱，舍弃一场盛大的婚礼，用于应付婚后可能面临的巨大开销，是不是更有意义呢？你知道，比如说偿还房贷。或者，为还未出世但会花光你每一分钱的孩子准备牙箍的钱。如果你的未婚妻一门心思想办一场童话般的婚礼，那又怎么办呢？你总是可以把你的钱花在许多有意义的单身生活上吧。"
+            },
+            {
+                "question":"8. With nearly $33,000 to spend in the life of a singledom, you could get pretty far when it comes to amenities and entertainment.  (para. 14) ",
+                "answer":"如果有近33000美元用于单身生活的话，你就可以大肆消遣和娱乐了。"
+            },
+            {
+                "question":"9. Like, why drop $1,400 on a frilly dress you’ll wear once before it turns to moth food when you can rock the most expensive shoes of the season and look great doing it? (para. 14) ",
+                "answer":"例如，为什么要花1400美元买一件只会穿一次就喂蛀虫的褶边礼服（婚纱），还不如穿一双当季最贵的鞋子，潇洒倜傥？"
+            },
+            {
+                "question":"10. For instance, purchasing and providing for a nice house cat rather than dropping major dough on finger bling intended for fending off hotties for the rest of your life. Fluffy won’t care if you bring home someone new every weekend— he’ll just hate everyone indiscriminately. (para. 16) ",
+                "answer":"比如，与其花大笔钱买指上之物，还不如购买和喂养一只漂亮的家猫用来婉拒余生的帅哥美女。这个毛绒动物不会在意每周末你带什么新面孔回家—反正它谁都不喜欢。"
+            },
+            {
+                "question":"1. The historic landing of Neil Armstrong on the moon in 1969 was enough to demonstrate America’s outlook regarding the frontiers of revolutionary knowledge. （para. 1）",
+                "answer":"（美国宇航员）尼尔•阿姆斯特朗在1969年历史性地登上月球就足以证明美国对创新知识前沿的展望。"
+            },
+            {
+                "question":"2. In fact, it was Caltech’s ambiance and the country’s system of support that made it possible for a young assistant professor to carry out, with his team, research that in only ten years’ time would define a discipline that was recognized by the Nobel Prize in 1999. (para. 2) ",
+                "answer":"事实上，正是加州理工学院的氛围和美国的支助系统才使得一个年轻的副教授能和其团队一起进行研究，仅仅用十年的时间确立了一个学科并在1999年获得了诺贝尔奖。"
+            },
+            {
+                "question":"3. These fundamental values are embedded in the foundation of the American constitution, which is built on the pillars of life, liberty, and the pursuit of happiness. (para. 5) ",
+                "answer":"这些基本的价值观成为美国宪法的基础，成为生活、自由和追求幸福的支柱。"
+            },
+            {
+                "question":"4. We should not listen to pessimists; but rather forge ahead to share the experience in whatever field we are passionate about, which could be business, government, law, art, or science. (para. 6) ",
+                "answer":"我们不能听信悲观者的抱怨，而应该坚定地在我们所热爱的领域中分享经验，无论是在经济、政治、法律、艺术还是科学领域。"
+            },
+            {
+                "question":"5. This generation and the ones to come will continue to seek a basic understanding of nature and will make the many exciting discoveries that lie ahead—from deciphering and controlling the most fundamental constituents of matter to discoveries at our universe’s boundaries and the unveiling of our origin and the miracle of life. (para. 7) ",
+                "answer":"这一代人和未来的几代人都将继续探寻对自然界的基本认识，探寻对未来的许多令人激动的发现，从破解和控制物质的基本成分到发现宇宙的边界，以及揭开人类起源和生命奇迹之谜。"
+            },
+            {
+                "question":"6. From the agricultural and industrial revolutions to today’s genomics and IT revolutions, science has always been at center stage for societal advancement, and graduates must surely play a leading role in conquering the next frontiers of discovery, innovation, and progress. (para. 10) ",
+                "answer":"从农业和工业革命到如今的基因学和信息技术革命，科学一直处于社会进步的中心，毕业生们一定要在征服下一个发现、创新和进步的前沿阵地中起到引领作用。"
+            },
+            {
+                "question":"7. The hope I witnessed—and am witnessing—in Egypt is a telling indication of a new role for science in democracy. (para. 11) ",
+                "answer":"我在埃及曾经见证，并正在见证的希望，就是科学在实现民主中所起的新作用的有力证明。"
+            },
+            {
+                "question":"8. During this journey, the wealth of knowledge should be wisely forged in place and time and opportunity. (para. 18) ",
+                "answer":"在这一旅程中，知识的财富将经受空间、时间和机遇的千锤百炼。"
+            },
+            {
+                "question":"1. The bottled version of the stuff is currently an $8 billion industry in the United States alone, with Americans drinking about 7 billion gallons of it in 2005. That’s compared to hundreds of billions of gallons of tap water, but for a product that can cost up to 10,000 times more than its municipal counterpart, it’s still an impressive market share. (para. 1) ",
+                "answer":"目前仅在美国，瓶装水是个80亿美元的产业，美国人在2005年就喝掉了大约70亿加仑的瓶装水。这相当于数千亿加仑的自来水。但是作为一种比其市政同类品贵1万倍的产品，瓶装水依然拥有极大的市场份额。 "
+            },
+            {
+                "question":"2. The level of the water supply the artesian well is drawing from must sit above the uppermost layer of the aquifer. (para. 4) ",
+                "answer":"自流井所汲取的水面必须在自流层的最上方。"
+            },
+            {
+                "question":"3. Mineral water is spring water that has at least 250 parts per million (ppm) of total dissolved solids (TDS) in it. (para. 5) ",
+                "answer":"矿泉水是至少含有百万分之250的完全溶解物的泉水。"
+            },
+            {
+                "question":"4. It simply means the water must come from one of two places: a protected natural source, such as a spring or artesian well in which measures have been taken to assure against contamination by surface water; or a municipal source of drinking water (i.e. tap water). (para. 12)",
+                "answer":"这仅仅说明瓶装水必须来自如下两个地方之一：受保护的自然水源，比如泉眼或自流井，并采取了措施以确保水源没有被地表水污染；或者是市政供应的饮用水，比如自来水。"
+            },
+            {
+                "question":"5. While the FDA prohibits bottled-water manufacturers from implying that their water is “safer” or “purer” than any other kind of water, implications are a difficult thing to quantify. (para. 13) ",
+                "answer":"由于美国食品和药物管理局禁止瓶装水生产商暗示他们生产的瓶装水比其他的饮用水“更安全”或“更纯净”，是否当真如此就难以量化衡量了。"
+            },
+            {
+                "question":"1. lan Fleming's first James Bond novel, Casino Royale, was published in 1953, and since then we've followed the exploits of the spy with the license to kill from country to country and woman to woman for more than five decades. (para.1)",
+                "answer":"伊恩．弗莱明的第一部磨姆斯，邦德小说《皇家赌场》于1953 年出版，从那以来，我们已经追随这位特务从一个国家杀到另一个国家，从一个女人周旋到另一个女人五十多个春秋。"
+            },
+            {
+                "question":"2. You may only live twice, but Bond seems like he may just live forever. ( para. 1)",
+                "answer":"你可能只能活两次，但邦德似乎可能永远活下去。"
+            },
+            {
+                "question":"3. Ian Fleming named James Bond after an ornithologist because it was the \"dullest name\" he'd ever heard. ( para.3)",
+                "answer":"伊恩•弗莱明用一个鸟类学家的名字来给詹姆斯•邦德取名，因为这是他听过的最呆的名字。"
+            },
+            {
+                "question":"4. Pierce Brosnan was the deadliest James Bond, killing 135 people. ( para.6)",
+                "answer":"皮尔斯•布鲁斯南是最“杀人如麻”的詹姆斯•邦德，他杀了135人。"
+            },
+            {
+                "question":"5. Before the release of Skyfall\", the James Bond character had killed 354 people with the \"license to kill\". (para. 7)",
+                "answer":"在《007: 大破天幕杀机》上映前，詹姆斯•邦德这一角色已经凭“杀人执照”杀了354人。"
+            },
+            {
+                "question":"6. Ian Fleming was initially apprehensive about Sean Connery's casting, as Connery didn't fit the character he had in mind. \"He's not what I envisioned of James Bond looks,\" he said \"I'm looking for Commander Bond and not an overgrown stunt man.” (para. 9)",
+                "answer":"伊恩•弗菜明起先为肖恩．康纳利出演这个角色感到不安，因为在他脑中，康纳利不适合这个角色。“他不是我期望的麼姆斯•那德的样子，”他说“我要的是一个指挥官邦德，而不是个长过了头的特技替身演员。”"
+            },
+            {
+                "question":"7. However, after seeing Connery in \"Dr. No\" and thinking the actor did a superb job, Fleming wrote Connery's heritage into the character. In the book \"You Only LiveTwice\", Fleming wrote that James Bond's father was Scottish and was from thetown of Glencoe. Coincidentally, Connery would film \"Highlander\" in Glencoe decades later. (para. 10)",
+                "answer":"然而，弗莱明看到康纳利在《007：诺博士》中的表现后认为这位演员演得很出色，弗莱明把康纳利的一些特点写到了角色里去。在《007：雷霆谷》一书中，弗莱明写道詹姆斯•邦德的父亲是苏格兰人，来自格兰克镇。机缘巧合，几十年后，康纳利在格兰克拍摄《高地人》。"
+            },
+            {
+                "question":"8. Dahl is. of course. the famous children’s author of books such as James and the Giant Peach, Charlie and the Chocolate Factory, Matilda, Fantastic Mr. Fox and The BFG. (para. 18)",
+                "answer":"当然了，罗尔德是著名的儿童文学作家，他写过《飞天巨桃历险记》，《查理和巧克力工厂》，《玛蒂尔达》，《了不起的狐狸爸爸》和《好心眼儿巨人》。"
             }
         ]
     },
@@ -5356,8 +5544,168 @@
         "type": "qanda",
         "questions": [
             {
-                "question":"hello world hello world hello world hello world hello world hello world hello world hello world hello world",
-                "answer":"你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界你好世界"
+                "question":"生态保护红线",
+                "answer":"ecological wealth"
+            },
+            {
+                "question":"宜居城市",
+                "answer":"habitable city"
+            },
+            {
+                "question":"低碳城市",
+                "answer":"low-carbon city"
+            },
+            {
+                "question":"一小时通勤圈",
+                "answer":"one-hour commuting circle"
+            },
+            {
+                "question":"轨道交通",
+                "answer":"rail traffic"
+            },
+            {
+                "question":"动车",
+                "answer":"bullet train"
+            },
+            {
+                "question":"城际列车",
+                "answer":"inter-city train "
+            },
+            {
+                "question":"可替代能源汽车",
+                "answer":"alternative energy vehicle"
+            },
+            {
+                "question":"可载人无人机",
+                "answer":"passenger-carrying drone "
+            },
+            {
+                "question":"空中上网服务",
+                "answer":"in-flight WiFi service "
+            },
+            {
+                "question":"网约车",
+                "answer":"online car-hailing "
+            },
+            {
+                "question":"代驾服务业",
+                "answer":"designated driver business"
+            },
+            {
+                "question":"超国民待遇",
+                "answer":"super-national treatment "
+            },
+            {
+                "question":"直播经济",
+                "answer":"live stream economy"
+            },
+            {
+                "question":"互联网＋政务服务",
+                "answer":"Internet plus government service"
+            },
+            {
+                "question":"单双号限行",
+                "answer":"traffic restriction based on even-and-odd-numbered license plate"
+            },
+            {
+                "question":"绿色金融改革创新试验区",
+                "answer":"pilot zone for green finance reform and innovation"
+            },
+            {
+                "question":"点赞",
+                "answer":"give a like "
+            },
+            {
+                "question":"自媒体",
+                "answer":"We-media "
+            },
+            {
+                "question":"实名认证",
+                "answer":"real-name authentication"
+            },
+            {
+                "question":"低头族",
+                "answer":"phubber"
+            },
+            {
+                "question":"税收减免",
+                "answer":"tax reduction and exemption"
+            },
+            {
+                "question":"利益共同体",
+                "answer":"community of shared interest"
+            },
+            {
+                "question":"创新型政府",
+                "answer":"pro-innovation government"
+            },
+            {
+                "question":"带薪休假",
+                "answer":"paid leave "
+            },
+            {
+                "question":"移动支付",
+                "answer":"mobile payment "
+            },
+            {
+                "question":"电子竞技",
+                "answer":"e-sport"
+            },
+            {
+                "question":"坚持房子是用来住的，不是用来炒的定位，加快建立多主体供给、多渠道保障、租售并举的住房制度，让全体人民住有所居。",
+                "answer":"We must not forget that housing is for living in, not for speculation. With this in mind, we will move faster to put in place a housing system that ensures supply through multiple sources, provides housing support through multiple channels, and encourages both housing purchase and renting. This will make us better placed to meet the housing needs of all of our people. "
+            },
+            {
+                "question":"发扬学术民主、艺术民主，提升文艺原创力，推动文艺创新。",
+                "answer":"We will foster democracy in academic research and artistic pursuit, and encourage originality and experimentation with new approaches in the creation of literature and art."
+            },
+            {
+                "question":"加强文物保护利用和文化遗产保护传承。",
+                "answer":"we will strengthen protection and utilization of cultural relics, and better preserve and carry forward our cultural heritage."
+            },
+            {
+                "question":"推进国际传播能力建设，讲好中国故事，展现真实、立体、全面的中国，提高国家文化软实力。",
+                "answer":"We will improve our capacity for engaging in international communication so as to tell China's stories well, present a true, multi-dimensional, and panoramic view of China, and enhance our country's cultural soft power."
+            },
+            {
+                "question":"坚持全民共治、源头防治，持续实施大气污染防治行动，打赢蓝天保卫战。",
+                "answer":"we will get everyone involved in improving the environment and address environmental issues at the root. We will continue our campaign to prevent and control air pollution to make our skies blue again."
+            },
+            {
+                "question":"大规模开展职业技能培训，注重解决结构性就业矛盾，鼓励创业带动就业。",
+                "answer":"We will launch vocational skills training programs on a big scale, give particular attention to tackling structural unemployment, and create more jobs by encouraging business startups. "
+            },
+            {
+                "question":"提供全方位公共就业服务，促进高校毕业生等青年群体、农民工多渠道就业创业。",
+                "answer":"we will provide extensive public employment services to open more channels for college graduates and other young people as well as migrant rural workers to find jobs and start their own businesses."
+            },
+            {
+                "question":"扩大中等收入群体，增加低收入者收入，调节过高收入，取缔非法收入。",
+                "answer":"We will expand the size of the middle-income group, increase income for people on low incomes, adjust excessive incomes, and prohibit illicit incomes. "
+            },
+            {
+                "question":"加快一流大学和一流学科建设，实现高等教育内涵式发展。",
+                "answer":"We will move faster to build Chinese universities into world-class universities and develop world-class disciplines to bring out the full potential of higher education. "
+            },
+            {
+                "question":"推动城乡义务教育一体化发展，高度重视衣村义务教育，办好学前教育、特殊教育和网络教育，普及高中阶段教育，努力让每个孩子都能享有公平而有质量的教育。",
+                "answer":"We will promote the coordinated development of compulsory education in urban and rural areas, while giving particular attention to rural areas. We will improve preschool education, special needs education, and online education, make senior secondary education universally"
+            },
+            {
+                "question":"大规模开展职业技能培训，注重解决结构性就业矛盾，鼓励创业带动就业。",
+                "answer":"We will launch vocational skills training programs on a big scale, give particular attention to tackling structural unemployment, and create more jobs by encouraging business startups."
+            },
+            {
+                "question":"中国特色社会主义进入新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。",
+                "answer":"As socialism with Chinese characteristics has entered a new era, the principal contradiction facing Chinese society has evolved. What we now face is the contradiction between unbalanced and inadequate development and the people's ever-growing needs for a better life. "
+            },
+            {
+                "question":"在引导应对气候变化国际合作方面，中国成为全球生态文明建设的重要参与者、贡献者、引领者。",
+                "answer":"Taking a driving seat in international cooperation to respond to climate change, China has become an important participant, contributor, and torchbearer in the global endeavor for ecological civilization."
+            },
+            {
+                "question":"我们呼吁，各国人民同心协力，构建人类命运共同体，建设待久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。",
+                "answer":"We call on the people of all countries to work together to build a community with a shared future for mankind, to build an open, inclusive, clean, and beautiful world that enjoys lasting peace, universal security, and common prosperity."
             }
         ]
     }
