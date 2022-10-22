@@ -3375,7 +3375,7 @@
     },
     {
         "id": "tag3",
-        "name": "听判",
+        "name": "判",
         "type": "select",
         "questions": [
             {
@@ -4306,7 +4306,7 @@
     },
     {
         "id": "tag4",
-        "name": "听选",
+        "name": "听",
         "type": "select",
         "questions": [
             {
@@ -5325,7 +5325,7 @@
     },
     {
         "id": "tag5",
-        "name": "翻译",
+        "name": "翻",
         "type": "qanda",
         "questions": [
             {
@@ -5540,7 +5540,7 @@
     },
     {
         "id": "tag6",
-        "name": "热词",
+        "name": "热",
         "type": "qanda",
         "questions": [
             {
